@@ -57,7 +57,7 @@
         "products": [],
         "full_width": true,
         "stack_products": false,
-        "show_progress_bar": false,
+        "show_progress_bar": true,
         "products_count": 6,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
@@ -65,14 +65,49 @@
         "title": "UNSERE BESTSELLER",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "ALLE BESTSELLER",
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
+        "product_card_background": "#ffffff",
+        "product_card_text_color": "#000000"
+      }
+    },
+    "media_with_text_rRbMJg": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_NHUByj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/makeup-and-jewelry.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "PREMIUM EDELSTAHL",
+            "title": "",
+            "content": "<p>Premium Rostfreier Edelstahl ist zu 100% wasser-, schweiß- und hitzebeständig. Dadurch kannst du sogar mit empfindlicher Haut deinem Look den letzten Schliff verleihen. Wir verstehen, dass es so wirkt, als gelte dies nur für silbernen Schmuck, aber wir haben auch goldene Premium-Edelstahl-Schmuckstücke! Hierbei wird dann eine Goldbeschichtung verwendet.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_NHUByj"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
       }
     },
     "collection-list": {
@@ -233,7 +268,7 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "Promotion text",
+        "text": "KLARNA",
         "text_size": "large",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -859,6 +894,7 @@
   "order": [
     "slideshow",
     "featured-collection",
+    "media_with_text_rRbMJg",
     "collection-list",
     "image-link-blocks",
     "scrolling-text",
