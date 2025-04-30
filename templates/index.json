@@ -49,6 +49,44 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "1746019704949f922c": {
+      "type": "apps",
+      "blocks": {
+        "sternify_announcement_bar_1_Eycacf": {
+          "type": "shopify://apps/sternify/blocks/announcement_bar_1/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "hintergrundfarbe": "#000000",
+            "textfarbe": "#ffffff",
+            "vorteil_1": "14-Tage Rückgaberecht",
+            "vorteil_2": "Kostenloser Versand",
+            "vorteil_3": "Ratenkauf möglich",
+            "icon": "tiktok",
+            "benutzername": "",
+            "social_link": "",
+            "verifiziert": "nein",
+            "anzahl_follower_abos": "",
+            "vorteil_4": "24 / 7 E-Mail Support",
+            "show_payment_icons": true
+          }
+        }
+      },
+      "block_order": [
+        "sternify_announcement_bar_1_Eycacf"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "name": "UNSERE BESTSELLER",
@@ -147,7 +185,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -908,10 +946,50 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "17460198008118397e": {
+      "type": "apps",
+      "blocks": {
+        "sternify_user_trust_with_names_4Yyr66": {
+          "type": "shopify://apps/sternify/blocks/user_trust_with_names/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "nutzername_1": "Marki",
+            "nutzername_2": "Sarahfn",
+            "nutzername_3": "",
+            "verifiziert": true,
+            "usertrust_text": "<p>und <strong>5728 andere</strong> sind begeistert von Sternify</p>",
+            "font_size": 12,
+            "font_picker": "poppins_n6",
+            "hintergrunds_farbe": "#F9F9F9",
+            "text_farbe": "#000000",
+            "avatar_border_color": "#CCCCCC",
+            "avatar_border_thickness": 2
+          }
+        }
+      },
+      "block_order": [
+        "sternify_user_trust_with_names_4Yyr66"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
     }
   },
   "order": [
     "slideshow",
+    "1746019704949f922c",
     "featured-collection",
     "media_with_text_rRbMJg",
     "slideshow_yETwHt",
@@ -926,6 +1004,7 @@
     "multiple-images-with-text",
     "featured-product",
     "feature-chart",
-    "faq"
+    "faq",
+    "17460198008118397e"
   ]
 }
