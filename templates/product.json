@@ -34,6 +34,12 @@
             "text": "<p>Inkl Mwst. & Kostenloser DHL Versand</p>"
           }
         },
+        "liquid_EpgJxT": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<a href=\"#looxReviews\" style=\"text-decoration: none;\">\n  <div style=\"display: flex; align-items: center; font-size: 16px; font-family: sans-serif; cursor: pointer;\">\n    <!-- Sterne -->\n    <div style=\"color: #FFD700; font-size: 18px; margin-right: 6px;\">\n      ★★★★★\n    </div>\n    <!-- Bewertungstext -->\n    <div style=\"color: #333;\">\n      4.9 basierend auf <strong>200+ Bewertungen</strong>\n    </div>\n  </div>\n</a>"
+          }
+        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -68,7 +74,7 @@
             "icon_2": "shopify://shop_images/package.png",
             "text_2": "14 Tägige Rückgabe Garantie",
             "icon_3": "shopify://shop_images/shower.png",
-            "text_3": "100% Wasserdicht Garantie",
+            "text_3": "100% Wasserfest Garantie",
             "text_4": "",
             "text_5": "",
             "text_color": "#000000",
@@ -151,6 +157,7 @@
         "badges",
         "price",
         "text_3fm8V3",
+        "liquid_EpgJxT",
         "rating",
         "payment_terms",
         "separator",
@@ -184,7 +191,19 @@
       "type": "related-products",
       "settings": {
         "recommendations_count": 6,
-        "products": [],
+        "products": [
+          "black-n-white-set",
+          "abby-ring-diamant-gold",
+          "amari-armreif",
+          "amber-armband-rosegold-rotes-muster",
+          "amber-feline-ring-diamant-silber",
+          "armband-elegance-nagel-deluxe-silver",
+          "cc-set-gold-1",
+          "cc-halskette",
+          "cd-halskette",
+          "clou-ring-schmal",
+          "deluxe-vierblatt-silber"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
