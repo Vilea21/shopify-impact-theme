@@ -31,6 +31,7 @@
     "heading_font_size": "large",
     "heading_letter_spacing": -2,
     "text_font": "din_next_n4",
+    "currency_code_enabled": false,
     "show_page_transition": true,
     "heading_apparition": "split_fade",
     "discount_mode": "percentage",
@@ -153,7 +154,8 @@
   "platform_customizations": {
     "custom_css": [
       "/* Grüner Fortschrittsbalken in allen Zuständen */.progress-bar,.progress-bar::before,.progress-bar::after,.free-shipping-bar__progress,.free-shipping-bar__progress::before,.free-shipping-bar__progress::after,.free-shipping-bar--limit-reached .free-shipping-bar__progress,.free-shipping-bar--limit-reached .free-shipping-bar__progress::before,.free-shipping-bar--limit-reached .free-shipping-bar__progress::after {background-color: #28a745 !important; /* kräftiges Grün */}",
-      "/* Optional: runde Ecken für modernen Look */.progress-bar,.free-shipping-bar__progress {border-radius: 9999px; height: 8px; /* du kannst es anpassen */}"
+      "/* Optional: runde Ecken für modernen Look */.progress-bar,.free-shipping-bar__progress {border-radius: 9999px; height: 8px; /* du kannst es anpassen */}",
+      "/* \"Zur Kasse\" Button (Hintergrund + Farbe) */.cart-form [name=\"checkout\"],.cart-form [name=\"checkout\"]:hover {background-color: #28a745 !important; /* grüner Hintergrund */ color: white !important; /* weiße Schrift */ border-color: #28a745 !important; /* optional: Rahmen grün */}"
     ]
   }
 }
