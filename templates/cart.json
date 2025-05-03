@@ -245,12 +245,90 @@
         "review_font": "poppins_n4",
         "show_avatars": true
       }
+    },
+    "st_shoppable_slider_QqT89G": {
+      "type": "st_shoppable-slider",
+      "blocks": {
+        "slider_video_ghFABA": {
+          "type": "slider_video",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7491054467756985622_hd.MP4",
+            "user_name": "",
+            "sub_text": "",
+            "slider_product": "",
+            "slider_product_text": "",
+            "show_verified_icon": false
+          }
+        },
+        "slider_video_p8HWwT": {
+          "type": "slider_video",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7499290191333657878_hd.MP4",
+            "user_name": "",
+            "sub_text": "",
+            "slider_product": "",
+            "slider_product_text": "",
+            "show_verified_icon": false
+          }
+        },
+        "slider_video_XGqBER": {
+          "type": "slider_video",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7499289640235584790_hd.MP4",
+            "user_name": "",
+            "sub_text": "",
+            "slider_product": "",
+            "slider_product_text": "",
+            "show_verified_icon": false
+          }
+        },
+        "slider_video_EkiLAk": {
+          "type": "slider_video",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7499289564700282134_hd.MP4",
+            "user_name": "Sarah M.",
+            "sub_text": "",
+            "slider_product": "",
+            "slider_product_text": "",
+            "show_verified_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "slider_video_ghFABA",
+        "slider_video_p8HWwT",
+        "slider_video_XGqBER",
+        "slider_video_EkiLAk"
+      ],
+      "name": "💫: Shoppable Slider",
+      "settings": {
+        "margin_top": 50,
+        "margin_bottom": 50,
+        "title": "Kunden Videos:",
+        "subtitle": "",
+        "title_font": "poppins_n6",
+        "title_fontsize_desktop": 45,
+        "title_fontsize_mobile": 32,
+        "subtitle_font": "poppins_n3",
+        "subtitle_fontsize_desktop": 20,
+        "subtitle_fontsize_mobile": 16,
+        "text_font": "poppins_n4",
+        "text_fontsize": 16,
+        "title_color": "#000000",
+        "subtitle_color": "#4a4a4a",
+        "username_color": "#ffffff",
+        "description_color": "#ffffff",
+        "button_bg_color": "#4a4a4a",
+        "button_icon_color": "#ffffff",
+        "verified_icon_color": "#42a5f5"
+      }
     }
   },
   "order": [
     "main",
     "17463031612517bc13",
     "recently_viewed_products_7HqtTg",
-    "st_testimonials_slider_rggeLN"
+    "st_testimonials_slider_rggeLN",
+    "st_shoppable_slider_QqT89G"
   ]
 }
