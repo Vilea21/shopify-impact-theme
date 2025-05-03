@@ -32,6 +32,12 @@
             "show_taxes_notice": false
           }
         },
+        "text_3fm8V3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Inkl Mwst. & Kostenloser DHL Versand</p>"
+          }
+        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -324,6 +330,7 @@
         "title",
         "badges",
         "price",
+        "text_3fm8V3",
         "rating",
         "payment_terms",
         "separator",
