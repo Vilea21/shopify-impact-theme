@@ -489,6 +489,71 @@
         "button_icon_color": "#FFFFFF",
         "verified_icon_color": "#42A5F5"
       }
+    },
+    "tabs_E8LpUb": {
+      "type": "tabs",
+      "blocks": {
+        "tab_PjWbfj": {
+          "type": "tab",
+          "settings": {
+            "title": "Aus welchen Materialien sind die Schmuckstücke gefertigt?",
+            "content": "<p>Wir verwenden <strong>Premium-Edelstahl</strong>, um Ihre Schönheit zu gewährleisten und jedes Schmuckstück mit höchster Präzision zu perfektionieren.</p>",
+            "page": ""
+          }
+        },
+        "tab_kDQJrr": {
+          "type": "tab",
+          "settings": {
+            "title": "Ist es Wasserbeständig?",
+            "content": "<p>Ja, es ist zu <strong>100 % wasser-, schweiß- und hitzebeständig. </strong>Dadurch kannst du selbst mit empfindlicher Haut deinem Look den perfekten Feinschliff verleihen.</p>",
+            "page": ""
+          }
+        },
+        "tab_F73Mwx": {
+          "type": "tab",
+          "settings": {
+            "title": "Wie pflege ich mein Schmuck?",
+            "content": "<p>Um ihre Schönheit zu bewahren, lagern Sie sie an einem trockenen Ort und reinigen Sie sie vorsichtig mit einem weichen Tuch.</p>",
+            "page": ""
+          }
+        },
+        "tab_mfNtgK": {
+          "type": "tab",
+          "settings": {
+            "title": "Sind die Schmuckstücke universell?",
+            "content": "<p>Ja,<strong>alle unsere Schmuckstücke sind universell einsetzbarund passen zu jedem.</strong>Bei Fragen nutzen Sie bitte unser Kontaktformular.</p>",
+            "page": ""
+          }
+        },
+        "tab_9gCMWH": {
+          "type": "tab",
+          "settings": {
+            "title": "Wie lang dauert der Versand?",
+            "content": "<p>Wir bearbeiten und versenden Ihre Bestellung innerhalb von <strong>1–2 Tagen</strong>. Die Lieferung erfolgt in der Regel innerhalb von<strong> 3–5 Tagen</strong> nach Versand.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_PjWbfj",
+        "tab_kDQJrr",
+        "tab_F73Mwx",
+        "tab_mfNtgK",
+        "tab_9gCMWH"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "Häufig gestellte Fragen",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -497,6 +562,7 @@
     "related-products",
     "st_testimonials_slider_jdzm8H",
     "media_with_text_FT4Lxe",
-    "st_shoppable_slider_n3wJXy"
+    "st_shoppable_slider_n3wJXy",
+    "tabs_E8LpUb"
   ]
 }
