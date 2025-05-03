@@ -54,9 +54,98 @@
         "show_shipping_estimator": false,
         "show_payment_icons": true
       }
+    },
+    "17463031612517bc13": {
+      "type": "apps",
+      "blocks": {
+        "sternify_benefit_four_boxes_J8TMTQ": {
+          "type": "shopify://apps/sternify/blocks/benefit_four_boxes/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "titel_1": "<strong>Kostenloser Versand</strong>",
+            "subtext_1": "in 4-7 Tagen bei dir",
+            "icon_2": "shopify://shop_images/klarna_letter_only_png.webp",
+            "titel_2": "<strong>Ratenzahlung</strong>",
+            "subtext_2": "mit Klarna",
+            "titel_3": "<strong>Persönlicher Service 24/7</strong>",
+            "subtext_3": "Steht dir bei Fragen zur Seite",
+            "titel_4": "<strong>14 Tage Rückgaberecht</strong>",
+            "subtext_4": "Risikofrei dank Zufriedenheitsgarantie",
+            "font_picker": "poppins_n4",
+            "title_size": 13,
+            "subtext_size": 11,
+            "box_rounded": 0,
+            "hintergrunds_farbe": "#F6F6F6",
+            "text_farbe": "#000000"
+          }
+        },
+        "sternify_user_trust_with_names_BUtE7X": {
+          "type": "shopify://apps/sternify/blocks/user_trust_with_names/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "profil_bild_1": "shopify://shop_images/425800300_1306107896736543_4012793055609237884_n.jpg",
+            "profil_bild_2": "shopify://shop_images/431489666_921800649576639_8542129367285977698_n.jpg",
+            "profil_bild_3": "shopify://shop_images/486655551_1193740829095881_24994864699223105_n.jpg",
+            "nutzername_1": "Leni Klum",
+            "nutzername_2": "JuliaBeautx",
+            "nutzername_3": "",
+            "verifiziert": true,
+            "usertrust_text": "<p>und <strong>10k+</strong> Menschen haben bei Villa eingekauft.</p>",
+            "font_size": 12,
+            "font_picker": "poppins_n6",
+            "hintergrunds_farbe": "#F9F9F9",
+            "text_farbe": "#000000",
+            "avatar_border_color": "#CCCCCC",
+            "avatar_border_thickness": 2
+          }
+        }
+      },
+      "block_order": [
+        "sternify_benefit_four_boxes_J8TMTQ",
+        "sternify_user_trust_with_names_BUtE7X"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "recently_viewed_products_7HqtTg": {
+      "type": "recently-viewed-products",
+      "name": "Recently viewed products",
+      "settings": {
+        "full_width": true,
+        "products_count": 6,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Wird oft zusammen gekauft:",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "17463031612517bc13",
+    "recently_viewed_products_7HqtTg"
   ]
 }
