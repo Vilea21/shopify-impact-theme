@@ -189,6 +189,90 @@
         "background_gradient": ""
       }
     },
+    "collection_list_fthJeg": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_dKWG9B": {
+          "type": "collection",
+          "settings": {
+            "collection": "halsketten",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_x6KaPE": {
+          "type": "collection",
+          "settings": {
+            "collection": "armbander",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_TxDnDB": {
+          "type": "collection",
+          "settings": {
+            "collection": "ohrringe",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_hybTDh": {
+          "type": "collection",
+          "settings": {
+            "collection": "ringe",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_dKWG9B",
+        "collection_x6KaPE",
+        "collection_TxDnDB",
+        "collection_hybTDh"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "full_width": true,
+        "stack_collections": true,
+        "collections_per_row": 3,
+        "show_progress_bar": true,
+        "subheading": "",
+        "title": "UNSERE TOP-KATEGORIEN",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "st_shoppable_slider_aDGUiH": {
       "type": "st_shoppable-slider",
       "blocks": {
@@ -265,6 +349,42 @@
         "button_icon_color": "#ffffff",
         "verified_icon_color": "#42a5f5"
       }
+    },
+    "impact_text_LDtVEg": {
+      "type": "impact-text",
+      "blocks": {
+        "item_bkk4dt": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "WASSERFEST 🚿",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_bkk4dt"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -273,6 +393,8 @@
     "featured-collection",
     "media_with_text_rRbMJg",
     "slideshow_yETwHt",
+    "collection_list_fthJeg",
+    "impact_text_LDtVEg",
     "st_shoppable_slider_aDGUiH"
   ]
 }

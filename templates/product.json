@@ -56,6 +56,198 @@
             "size_chart_page": ""
           }
         },
+        "sternify_benefit_usp_with_icons_xEwUFM": {
+          "type": "shopify://apps/sternify/blocks/benefit_usp_with_icons/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "icon_1": "shopify://shop_images/57416d65e3db71477dd33a8a234e21_8061b000-23fa-4bb3-aa55-116baa6db83b_webp.png",
+            "text_1": "Kostenloser Versan",
+            "icon_2": "shopify://shop_images/package.png",
+            "text_2": "14 Tägige Rückgabe Garantie",
+            "icon_3": "shopify://shop_images/shower.png",
+            "text_3": "100% Wasserdicht Garantie",
+            "text_4": "",
+            "text_5": "",
+            "text_color": "#000000",
+            "text_size": 15,
+            "icon_size": 20
+          }
+        },
+        "sternify_user_trust_no_names_tBjnft": {
+          "type": "shopify://apps/sternify/blocks/user_trust_no_names/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "trust_text": "Mehr als <strong>215 mal</strong> in den letzten 2 Wochen bestellt",
+            "font_size": 11,
+            "font_picker": "poppins_n4",
+            "hintergrunds_farbe": "#F9F9F9",
+            "text_farbe": "#000000"
+          }
+        },
+        "sternify_user_trust_with_names_wBnjr8": {
+          "type": "shopify://apps/sternify/blocks/user_trust_with_names/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "nutzername_1": "Marki",
+            "nutzername_2": "Sarahfn",
+            "nutzername_3": "",
+            "verifiziert": true,
+            "usertrust_text": "<p>und <strong>5728 andere</strong> sind begeistert von Sternify</p>",
+            "font_size": 12,
+            "font_picker": "poppins_n6",
+            "hintergrunds_farbe": "#F9F9F9",
+            "text_farbe": "#000000",
+            "avatar_border_color": "#CCCCCC",
+            "avatar_border_thickness": 2
+          }
+        },
+        "sternify_sternify_upsell_MnHd7T": {
+          "type": "shopify://apps/sternify/blocks/sternify_upsell/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "product": "{{product}}"
+          }
+        },
+        "sternify_trust_badge_qF8tCB": {
+          "type": "shopify://apps/sternify/blocks/trust_badge/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "style": "1",
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "box_text": "",
+            "font_picker": "poppins_n4",
+            "text_size": 14,
+            "icon_size": 45,
+            "box_background_color": "#FFF6DA",
+            "text_farbe": "#000000"
+          }
+        },
+        "sternify_shipping_timeline_WGqc6D": {
+          "type": "shopify://apps/sternify/blocks/shipping_timeline/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "shipping_time_enabled": true,
+            "shipping_time": 3,
+            "delivery_time": 3,
+            "buffer_time": 3,
+            "calculate_weekends": false,
+            "show_shipping_days_as_text": false,
+            "ordered_text": "Bestellt",
+            "ordered_text_under": "Heute",
+            "shipped_text": "Versendet",
+            "arrived_text": "Zugestellt",
+            "delivery_text_enabled": true,
+            "delivery_text_start": "Wenn Du innerhalb",
+            "delivery_text_end": "bestellst",
+            "delivery_hours": "Stdn.",
+            "delivery_minutes": "Min.",
+            "animated_line": true,
+            "box_color": "#F5F5F5",
+            "text_color": "#000000",
+            "hours_color": "#006631",
+            "icon_size": 30
+          }
+        },
+        "sternify_inventory_JVywLN": {
+          "type": "shopify://apps/sternify/blocks/inventory/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "inventory_tracking": "manual",
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "mode": "sold_out",
+            "inventory_text": "Letzte Chance - Nur noch 4 Stück auf Lager!",
+            "font_picker": "poppins_n4",
+            "font_size": 14,
+            "dynamic_available_text": "Letzte Chance - Nur noch 4 Stück auf Lager!",
+            "dynamic_sold_out_text": "Ausverkauft"
+          }
+        },
+        "sternify_sternify_gift_rjbDdB": {
+          "type": "shopify://apps/sternify/blocks/sternify_gift/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "product": "{{product}}"
+          }
+        },
+        "sternify_discount_code_box_cEFiNU": {
+          "type": "shopify://apps/sternify/blocks/discount_code_box/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "font_auswhlen": "poppins_n4",
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "box_padding": 15,
+            "aktion_titel": "Heute 3 für 2 Aktion",
+            "font_size_title": 18,
+            "marker_farbe": "#fde047",
+            "title_farbe": "#121212",
+            "aktion_text": "Lege 3 Paare in den Warenkorb und erhalte 1 davon <strong>GRATIS!</strong> Mit dem Code:",
+            "font_size_text": 12,
+            "copy_discount_function": true,
+            "rabatt_code": "GESCHENK"
+          }
+        },
+        "sternify_sternify_bundle_ENYHDz": {
+          "type": "shopify://apps/sternify/blocks/sternify_bundle/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "product": "{{product}}"
+          }
+        },
+        "sternify_benefit_usp_with_icons_YLaMxj": {
+          "type": "shopify://apps/sternify/blocks/benefit_usp_with_icons/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "text_1": "Gratis Versand & Umtausch",
+            "text_2": "Deutsches Start-Up unterstützen",
+            "text_3": "Bezahle in 30 Tagen",
+            "text_4": "",
+            "text_5": "",
+            "text_color": "#000000",
+            "text_size": 15,
+            "icon_size": 20
+          }
+        },
+        "sternify_benefit_icon_and_text_RjtmGz": {
+          "type": "shopify://apps/sternify/blocks/benefit_icon_and_text/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "box_title": "<strong>Klarna</strong>",
+            "box_text": "Kaufe jetzt, Zahle erst in 3 Monaten",
+            "font_picker": "poppins_n4",
+            "title_size": 15,
+            "text_size": 12,
+            "icon_size": 35,
+            "box_rounded": 8,
+            "box_background_color": "#FFFFFF",
+            "text_farbe": "#000000",
+            "border_color": "#d6d6d6",
+            "border_thickness": 1
+          }
+        },
+        "sternify_benefit_double_ejbk6r": {
+          "type": "shopify://apps/sternify/blocks/benefit_double/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "font_picker": "poppins_n4",
+            "text_size": 13,
+            "titel_1": "<strong>Bequem auf Rechnung</strong>",
+            "text_1": "Bezahle auf Rechnung mit Paypal oder Klarna",
+            "titel_2": "<strong>30 Tage Rückgaberecht</strong>",
+            "text_2": "Risikofrei dank Zufriedenheits­garantie",
+            "hintergrunds_farbe": "#F9F9F9",
+            "text_farbe": "#000000"
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -65,10 +257,65 @@
           "settings": {
             "show_payment_button": true,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
+            "atc_button_background": "#19c95f",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "#00a341",
+            "payment_button_text_color": "#00a341"
+          }
+        },
+        "sternify_payment_icons_pbnLEG": {
+          "type": "shopify://apps/sternify/blocks/payment_icons/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "paypal": true,
+            "amex": true,
+            "klarna_rechnung": false,
+            "klarna_sofort": false,
+            "visa": true,
+            "mastercard": true,
+            "klarna": true,
+            "apple_pay": true,
+            "google_pay": true,
+            "twint": false,
+            "ideal": false,
+            "bancontact": false
+          }
+        },
+        "sternify_benefit_icon_and_text_VDatmz": {
+          "type": "shopify://apps/sternify/blocks/benefit_icon_and_text/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "box_title": "<strong>Klarna</strong>",
+            "box_text": "Kaufe jetzt, Zahle erst in 3 Monaten",
+            "font_picker": "poppins_n4",
+            "title_size": 15,
+            "text_size": 12,
+            "icon_size": 35,
+            "box_rounded": 8,
+            "box_background_color": "#FFFFFF",
+            "text_farbe": "#000000",
+            "border_color": "#d6d6d6",
+            "border_thickness": 1
+          }
+        },
+        "sternify_benefit_icon_and_text_LG3jx3": {
+          "type": "shopify://apps/sternify/blocks/benefit_icon_and_text/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "box_title": "<strong>Klarna</strong>",
+            "box_text": "Kaufe jetzt, Zahle erst in 3 Monaten",
+            "font_picker": "poppins_n4",
+            "title_size": 15,
+            "text_size": 12,
+            "icon_size": 35,
+            "box_rounded": 8,
+            "box_background_color": "#FFFFFF",
+            "text_farbe": "#000000",
+            "border_color": "#d6d6d6",
+            "border_thickness": 1
           }
         }
       },
@@ -81,8 +328,24 @@
         "payment_terms",
         "separator",
         "variant_picker",
+        "sternify_benefit_usp_with_icons_xEwUFM",
+        "sternify_user_trust_no_names_tBjnft",
+        "sternify_user_trust_with_names_wBnjr8",
+        "sternify_sternify_upsell_MnHd7T",
+        "sternify_trust_badge_qF8tCB",
+        "sternify_shipping_timeline_WGqc6D",
+        "sternify_inventory_JVywLN",
+        "sternify_sternify_gift_rjbDdB",
+        "sternify_discount_code_box_cEFiNU",
+        "sternify_sternify_bundle_ENYHDz",
+        "sternify_benefit_usp_with_icons_YLaMxj",
+        "sternify_benefit_icon_and_text_RjtmGz",
+        "sternify_benefit_double_ejbk6r",
         "quantity_selector",
-        "buy_buttons"
+        "buy_buttons",
+        "sternify_payment_icons_pbnLEG",
+        "sternify_benefit_icon_and_text_VDatmz",
+        "sternify_benefit_icon_and_text_LG3jx3"
       ],
       "settings": {
         "full_width": true,
