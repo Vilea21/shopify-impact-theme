@@ -152,8 +152,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "/* Balken unter dem Text grün färben */.free-shipping-bar, .free-shipping-bar__inner, .free-shipping-bar__text {border-bottom: 2px solid #28a745 !important; /* sattes Grün */}",
-      "/* Optional: Text grün färben */.free-shipping-bar__text {color: #28a745 !important; font-weight: bold;}"
+      "/* Fortschrittsbalken grün färben */.free-shipping-bar__progress,.free-shipping-bar__progress::after {background-color: #28a745 !important; /* grüner Balken */}"
     ]
   }
 }
