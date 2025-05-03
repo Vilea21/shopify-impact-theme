@@ -377,12 +377,126 @@
         "review_font": "poppins_n4",
         "show_avatars": true
       }
+    },
+    "media_with_text_FT4Lxe": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_nn47mX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Ring_stacking_2_png.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "TAUCHE EIN IN DIE WELT STRAHLENDER ELEGANZ",
+            "content": "<p>Jedes Schmuckstück ist ein Unikat aus hochwertigem Edelstahl, hypoallergen und farbecht – ideal auch für empfindliche Haut. Wir setzen auf höchste Qualität und Präzision, um dir das perfekte Accessoire zu bieten.</p><p>Falls du nicht vollkommen zufrieden bist: Innerhalb von 14 Tagen garantieren wir dir eine unkomplizierte Rückerstattung oder einen Umtausch. Dein Lächeln ist unser Ziel.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_nn47mX"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "st_shoppable_slider_n3wJXy": {
+      "type": "st_shoppable-slider",
+      "blocks": {
+        "slider_video_F79WtW": {
+          "type": "slider_video",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7491054467756985622_hd.MP4",
+            "user_name": "",
+            "sub_text": "",
+            "slider_product": "",
+            "slider_product_text": "",
+            "show_verified_icon": false
+          }
+        },
+        "slider_video_tXdbMK": {
+          "type": "slider_video",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7499290191333657878_hd.MP4",
+            "user_name": "",
+            "sub_text": "",
+            "slider_product": "",
+            "slider_product_text": "",
+            "show_verified_icon": false
+          }
+        },
+        "slider_video_GxGwfn": {
+          "type": "slider_video",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7499289640235584790_hd.MP4",
+            "user_name": "",
+            "sub_text": "",
+            "slider_product": "",
+            "slider_product_text": "",
+            "show_verified_icon": false
+          }
+        },
+        "slider_video_Hgit8R": {
+          "type": "slider_video",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7499289564700282134_hd.MP4",
+            "user_name": "Sarah M.",
+            "sub_text": "",
+            "slider_product": "",
+            "slider_product_text": "",
+            "show_verified_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "slider_video_F79WtW",
+        "slider_video_tXdbMK",
+        "slider_video_GxGwfn",
+        "slider_video_Hgit8R"
+      ],
+      "name": "💫: Shoppable Slider",
+      "settings": {
+        "margin_top": 50,
+        "margin_bottom": 50,
+        "title": "Kunden Videos:",
+        "subtitle": "",
+        "title_font": "poppins_n6",
+        "title_fontsize_desktop": 45,
+        "title_fontsize_mobile": 32,
+        "subtitle_font": "poppins_n3",
+        "subtitle_fontsize_desktop": 20,
+        "subtitle_fontsize_mobile": 16,
+        "text_font": "poppins_n4",
+        "text_fontsize": 16,
+        "title_color": "#000000",
+        "subtitle_color": "#4A4A4A",
+        "username_color": "#FFFFFF",
+        "description_color": "#FFFFFF",
+        "button_bg_color": "#4A4A4A",
+        "button_icon_color": "#FFFFFF",
+        "verified_icon_color": "#42A5F5"
+      }
     }
   },
   "order": [
     "main",
     "faq_XX8Me4",
     "related-products",
-    "st_testimonials_slider_jdzm8H"
+    "st_testimonials_slider_jdzm8H",
+    "media_with_text_FT4Lxe",
+    "st_shoppable_slider_n3wJXy"
   ]
 }
