@@ -50,6 +50,11 @@
         "type": "shopify://apps/sternify/blocks/reset_css/fcc6e879-7d9e-4924-b387-68cfab68cec6",
         "disabled": false,
         "settings": {}
+      },
+      "7147999719060634790": {
+        "type": "shopify://apps/gsc-countdown-timer/blocks/countdown-bar/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
@@ -154,8 +159,8 @@
   "platform_customizations": {
     "custom_css": [
       "/* Grüner Fortschrittsbalken in allen Zuständen */.progress-bar,.progress-bar::before,.progress-bar::after,.free-shipping-bar__progress,.free-shipping-bar__progress::before,.free-shipping-bar__progress::after,.free-shipping-bar--limit-reached .free-shipping-bar__progress,.free-shipping-bar--limit-reached .free-shipping-bar__progress::before,.free-shipping-bar--limit-reached .free-shipping-bar__progress::after {background-color: #28a745 !important; /* kräftiges Grün */}",
-      "/* Optional: runde Ecken für modernen Look */.progress-bar,.free-shipping-bar__progress {border-radius: 9999px; height: 8px; /* du kannst es anpassen */}",
-      "/* \"Zur Kasse\" Button (Hintergrund + Farbe) */.cart-form [name=\"checkout\"],.cart-form [name=\"checkout\"]:hover {background-color: #28a745 !important; /* grüner Hintergrund */ color: white !important; /* weiße Schrift */ border-color: #28a745 !important; /* optional: Rahmen grün */}"
+      " /* Optional: runde Ecken für modernen Look */.progress-bar,.free-shipping-bar__progress {border-radius: 9999px; height: 8px; /* du kannst es anpassen */}",
+      " /* \"Zur Kasse\" Button (Hintergrund + Farbe) */.cart-form [name=\"checkout\"],.cart-form [name=\"checkout\"]:hover {background-color: #28a745 !important; /* grüner Hintergrund */ color: white !important; /* weiße Schrift */ border-color: #28a745 !important; /* optional: Rahmen grün */}"
     ]
   }
 }
