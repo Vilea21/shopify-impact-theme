@@ -76,7 +76,7 @@
             "title_size": 13,
             "subtext_size": 11,
             "box_rounded": 0,
-            "hintergrunds_farbe": "#F6F6F6",
+            "hintergrunds_farbe": "#f6f6f6",
             "text_farbe": "#000000"
           }
         },
@@ -92,12 +92,12 @@
             "nutzername_2": "JuliaBeautx",
             "nutzername_3": "",
             "verifiziert": true,
-            "usertrust_text": "<p>und <strong>10k+</strong> Menschen haben bei Villa eingekauft.</p>",
+            "usertrust_text": "<p>und <strong>10k+</strong> Menschen haben bei Vilea eingekauft.</p>",
             "font_size": 12,
             "font_picker": "poppins_n6",
-            "hintergrunds_farbe": "#F9F9F9",
+            "hintergrunds_farbe": "#f9f9f9",
             "text_farbe": "#000000",
-            "avatar_border_color": "#CCCCCC",
+            "avatar_border_color": "#cccccc",
             "avatar_border_thickness": 2
           }
         }
