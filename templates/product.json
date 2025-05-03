@@ -277,14 +277,27 @@
     "st_testimonials_slider_jdzm8H": {
       "type": "st_testimonials-slider",
       "blocks": {
+        "bewertung_EV4pUQ": {
+          "type": "bewertung",
+          "settings": {
+            "bewertung_text": "<p>Ich habe für den Preis ehrlich gesagt nicht so eine tolle Qualität erwartet. Die Anhänger sind super verarbeitet und sehen echt luxuriös aus. Bin mega zufrieden.</p>",
+            "max_image_height": 200,
+            "image_position": "center",
+            "nutzer_name": "Selin A.",
+            "datum": "vor 5 Tagen.",
+            "anzahl_der_sterne": 5,
+            "verifizierte_bewertung": true
+          }
+        },
         "bewertung_m8R9E3": {
           "type": "bewertung",
           "settings": {
-            "bewertung_text": "<p>\"Sternify is fantastic. It has extremely improved my conversion rate and brought my product page to a level with industry experts, all without developers! Everything in the Shopify Theme Builder.\"</p>",
+            "bewertung_text": "<p>Ich habe ein Armband und eine Kette bestellt – beides kam liebevoll verpackt an und sieht in echt noch hochwertiger aus als auf den Fotos. Ich wurde schon mehrfach darauf angesprochen!</p>",
             "max_image_height": 200,
             "image_position": "center",
-            "nutzer_name": "Max M.",
-            "datum": "3 days ago",
+            "nutzer_profilbild": "shopify://shop_images/Bildschirmfoto_2025-04-12_um_04_53_49_png.webp",
+            "nutzer_name": "Maxi M.",
+            "datum": "vor 3 Tagen",
             "anzahl_der_sterne": 5,
             "verifizierte_bewertung": true
           }
@@ -292,11 +305,12 @@
         "bewertung_47YjN4": {
           "type": "bewertung",
           "settings": {
-            "bewertung_text": "<p>\"Sternify is fantastic. It has extremely improved my conversion rate and brought my product page to a level with industry experts, all without developers! Everything in the Shopify Theme Builder.\"</p>",
+            "bewertung_text": "<p>Die Ohrringe waren ein Geburtstagsgeschenk für meine beste Freundin – sie war total begeistert! Qualität top, Versand schnell, werde definitiv wieder bestellen.</p>",
             "max_image_height": 200,
             "image_position": "center",
-            "nutzer_name": "Max M.",
-            "datum": "3 days ago",
+            "nutzer_profilbild": "shopify://shop_images/Bildschirmfoto_2025-04-12_um_04_54_04_png.webp",
+            "nutzer_name": "Lenie K.",
+            "datum": "vor 12 Tagen",
             "anzahl_der_sterne": 5,
             "verifizierte_bewertung": true
           }
@@ -304,33 +318,36 @@
         "bewertung_4mk7Fp": {
           "type": "bewertung",
           "settings": {
-            "bewertung_text": "<p>\"Sternify is fantastic. It has extremely improved my conversion rate and brought my product page to a level with industry experts, all without developers! Everything in the Shopify Theme Builder.\"</p>",
+            "bewertung_text": "<p>Ich liebe filigranen Schmuck – und hier stimmt einfach alles: Verarbeitung, Tragekomfort und Stil. Mein neuer Lieblingsshop!</p>",
             "max_image_height": 200,
             "image_position": "center",
-            "nutzer_name": "Max M.",
-            "datum": "3 days ago",
+            "nutzer_profilbild": "shopify://shop_images/Bildschirmfoto_2025-04-12_um_04_54_18_png.webp",
+            "nutzer_name": "Anja T.",
+            "datum": "vor 3 Wochen",
             "anzahl_der_sterne": 5,
             "verifizierte_bewertung": true
           }
         },
-        "bewertung_EV4pUQ": {
+        "bewertung_zGWBXN": {
           "type": "bewertung",
           "settings": {
-            "bewertung_text": "<p>\"Sternify is fantastic. It has extremely improved my conversion rate and brought my product page to a level with industry experts, all without developers! Everything in the Shopify Theme Builder.\"</p>",
+            "bewertung_text": "<p>Die Kombination aus Halskette und Ohrringen ist ein absoluter Hingucker – egal ob Alltag oder Abend-Outfit. Alles passt perfekt zusammen.</p>",
             "max_image_height": 200,
             "image_position": "center",
-            "nutzer_name": "Max M.",
-            "datum": "3 days ago",
+            "nutzer_profilbild": "shopify://shop_images/ef189973a6c8ac026f0156350f758fc0-3096718495_jpg.webp",
+            "nutzer_name": "Nina B.",
+            "datum": "vor 4 Wochen",
             "anzahl_der_sterne": 5,
             "verifizierte_bewertung": true
           }
         }
       },
       "block_order": [
+        "bewertung_EV4pUQ",
         "bewertung_m8R9E3",
         "bewertung_47YjN4",
         "bewertung_4mk7Fp",
-        "bewertung_EV4pUQ"
+        "bewertung_zGWBXN"
       ],
       "name": "💫: Testimonials Slider",
       "settings": {
