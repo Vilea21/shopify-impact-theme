@@ -207,8 +207,8 @@
         "item_fRBrC9": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Warum Viléa",
+            "content": "<p>🚀<strong>Sicher & zuverlässig</strong>– Wir arbeiten mit geprüften Logistikpartnern<br/>📦<strong>100 % Liefergarantie</strong>– Keine leeren Versprechen, bei uns kommt dein Paket sicher an<br/>👥<strong>Echter Kundenservice</strong>– Nicht nur echter-Shop, sondern auch echte Ansprechpartner<br/>💸<strong>Faire Preise & geprüfte Qualität</strong>– Keine billigen Produkte, sondern tested & approved</p>"
           }
         }
       },
@@ -224,8 +224,8 @@
         "title": "",
         "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
