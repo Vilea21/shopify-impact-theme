@@ -52,26 +52,26 @@
     "1746019704949f922c": {
       "type": "apps",
       "blocks": {
-        "sternify_announcement_bar_1_Eycacf": {
+        "sternify_announcement_bar_1_P8jJ49": {
           "type": "shopify://apps/sternify/blocks/announcement_bar_1/fcc6e879-7d9e-4924-b387-68cfab68cec6",
           "settings": {
             "hintergrundfarbe": "#000000",
             "textfarbe": "#ffffff",
-            "vorteil_1": "14-Tage Rückgaberecht",
-            "vorteil_2": "Kostenloser Versand",
+            "vorteil_1": "Über 7 Jahre Erfahrung",
+            "vorteil_2": "In 1-2 Tagen bei dir",
             "vorteil_3": "Ratenkauf möglich",
-            "icon": "tiktok",
-            "benutzername": "",
+            "icon": "instagram",
+            "benutzername": "@Vilea",
             "social_link": "",
-            "verifiziert": "nein",
-            "anzahl_follower_abos": "",
-            "vorteil_4": "24 / 7 E-Mail Support",
+            "verifiziert": "ja",
+            "anzahl_follower_abos": "10 Tsd.",
+            "vorteil_4": "24 / 7 Support Anrufen",
             "show_payment_icons": true
           }
         }
       },
       "block_order": [
-        "sternify_announcement_bar_1_Eycacf"
+        "sternify_announcement_bar_1_P8jJ49"
       ],
       "settings": {
         "full_width": true,
@@ -273,6 +273,42 @@
         "heading_gradient": ""
       }
     },
+    "impact_text_LDtVEg": {
+      "type": "impact-text",
+      "blocks": {
+        "item_bkk4dt": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "WASSERFEST 🚿",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_bkk4dt"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "st_shoppable_slider_aDGUiH": {
       "type": "st_shoppable-slider",
       "blocks": {
@@ -348,42 +384,6 @@
         "button_bg_color": "#4a4a4a",
         "button_icon_color": "#ffffff",
         "verified_icon_color": "#42a5f5"
-      }
-    },
-    "impact_text_LDtVEg": {
-      "type": "impact-text",
-      "blocks": {
-        "item_bkk4dt": {
-          "type": "item",
-          "settings": {
-            "title": "100%",
-            "subheading": "WASSERFEST 🚿",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_bkk4dt"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
       }
     }
   },
