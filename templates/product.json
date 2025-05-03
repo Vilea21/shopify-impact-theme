@@ -187,59 +187,6 @@
         "input_text_color": ""
       }
     },
-    "faq_XX8Me4": {
-      "type": "faq",
-      "blocks": {
-        "item_BhNnV8": {
-          "type": "item",
-          "settings": {
-            "title": "Versandinfo",
-            "content": "<p>Wir bearbeiten und versenden Ihre Bestellung innerhalb von 1–2 Tagen. Die Lieferung erfolgt in der Regel innerhalb von 4–6 Tagen nach Versand.</p>"
-          }
-        },
-        "item_m6RVbV": {
-          "type": "item",
-          "settings": {
-            "title": "14 TAGE EINFACHE RÜCKGABE",
-            "content": "<p><strong>Passt nicht? – Kein Problem!</strong>Du kannst deine Bestellung jederzeit zurückgeben oder umtauschen. Wir bieten eine <strong>14-tägige Rückgabe- oder Umtauschrichtlinie</strong>an. Falls du aus irgendeinem Grund nicht zufrieden bist, erhältst du dein Geld zurück oder kannst dein Produkt umtauschen. Unser Team ist hier, um dir zu helfen! 😊</p>"
-          }
-        },
-        "item_fRBrC9": {
-          "type": "item",
-          "settings": {
-            "title": "Warum Viléa und nicht wo anders ?",
-            "content": "<p>🚀<strong>Sicher & zuverlässig</strong>– Wir arbeiten mit geprüften Logistikpartnern<br/>📦<strong>100 % Liefergarantie</strong>– Keine leeren Versprechen, bei uns kommt dein Paket sicher an<br/>👥<strong>Echter Kundenservice</strong>– Nicht nur echter-Shop, sondern auch echte Ansprechpartner<br/>💸<strong>Faire Preise & geprüfte Qualität</strong>– Keine billigen Produkte, sondern tested & approved</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_BhNnV8",
-        "item_m6RVbV",
-        "item_fRBrC9"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "team_avatar_width": 160,
-        "support_hours": "",
-        "answer_time": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -272,6 +219,59 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
+      }
+    },
+    "faq_XX8Me4": {
+      "type": "faq",
+      "blocks": {
+        "item_fRBrC9": {
+          "type": "item",
+          "settings": {
+            "title": "Warum Viléa und nicht wo anders ?",
+            "content": "<p>🚀<strong>Sicher & zuverlässig</strong>– Wir arbeiten mit geprüften Logistikpartnern<br/>📦<strong>100 % Liefergarantie</strong>– Keine leeren Versprechen, bei uns kommt dein Paket sicher an<br/>👥<strong>Echter Kundenservice</strong>– Nicht nur echter-Shop, sondern auch echte Ansprechpartner<br/>💸<strong>Faire Preise & geprüfte Qualität</strong>– Keine billigen Produkte, sondern tested & approved</p>"
+          }
+        },
+        "item_BhNnV8": {
+          "type": "item",
+          "settings": {
+            "title": "Versandinfo",
+            "content": "<p>Wir bearbeiten und versenden Ihre Bestellung innerhalb von 1–2 Tagen. Die Lieferung erfolgt in der Regel innerhalb von 4–6 Tagen nach Versand.</p>"
+          }
+        },
+        "item_m6RVbV": {
+          "type": "item",
+          "settings": {
+            "title": "14 TAGE EINFACHE RÜCKGABE",
+            "content": "<p><strong>Passt nicht? – Kein Problem!</strong>Du kannst deine Bestellung jederzeit zurückgeben oder umtauschen. Wir bieten eine <strong>14-tägige Rückgabe- oder Umtauschrichtlinie</strong>an. Falls du aus irgendeinem Grund nicht zufrieden bist, erhältst du dein Geld zurück oder kannst dein Produkt umtauschen. Unser Team ist hier, um dir zu helfen! 😊</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_fRBrC9",
+        "item_BhNnV8",
+        "item_m6RVbV"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
       }
     }
   },
