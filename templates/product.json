@@ -187,40 +187,6 @@
         "input_text_color": ""
       }
     },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "recommendations_count": 6,
-        "products": [
-          "black-n-white-set",
-          "abby-ring-diamant-gold",
-          "amari-armreif",
-          "amber-armband-rosegold-rotes-muster",
-          "amber-feline-ring-diamant-silber",
-          "armband-elegance-nagel-deluxe-silver",
-          "cc-set-gold-1",
-          "cc-halskette",
-          "cd-halskette",
-          "clou-ring-schmal",
-          "deluxe-vierblatt-silber"
-        ],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": true,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "DAS KÖNNTE DIR AUCH GEFALLEN:",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "faq_XX8Me4": {
       "type": "faq",
       "blocks": {
@@ -273,11 +239,133 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [
+          "black-n-white-set",
+          "abby-ring-diamant-gold",
+          "amari-armreif",
+          "amber-armband-rosegold-rotes-muster",
+          "amber-feline-ring-diamant-silber",
+          "armband-elegance-nagel-deluxe-silver",
+          "cc-set-gold-1",
+          "cc-halskette",
+          "cd-halskette",
+          "clou-ring-schmal",
+          "deluxe-vierblatt-silber"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "DAS KÖNNTE DIR AUCH GEFALLEN:",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "st_testimonials_slider_jdzm8H": {
+      "type": "st_testimonials-slider",
+      "blocks": {
+        "bewertung_m8R9E3": {
+          "type": "bewertung",
+          "settings": {
+            "bewertung_text": "<p>\"Sternify is fantastic. It has extremely improved my conversion rate and brought my product page to a level with industry experts, all without developers! Everything in the Shopify Theme Builder.\"</p>",
+            "max_image_height": 200,
+            "image_position": "center",
+            "nutzer_name": "Max M.",
+            "datum": "3 days ago",
+            "anzahl_der_sterne": 5,
+            "verifizierte_bewertung": true
+          }
+        },
+        "bewertung_47YjN4": {
+          "type": "bewertung",
+          "settings": {
+            "bewertung_text": "<p>\"Sternify is fantastic. It has extremely improved my conversion rate and brought my product page to a level with industry experts, all without developers! Everything in the Shopify Theme Builder.\"</p>",
+            "max_image_height": 200,
+            "image_position": "center",
+            "nutzer_name": "Max M.",
+            "datum": "3 days ago",
+            "anzahl_der_sterne": 5,
+            "verifizierte_bewertung": true
+          }
+        },
+        "bewertung_4mk7Fp": {
+          "type": "bewertung",
+          "settings": {
+            "bewertung_text": "<p>\"Sternify is fantastic. It has extremely improved my conversion rate and brought my product page to a level with industry experts, all without developers! Everything in the Shopify Theme Builder.\"</p>",
+            "max_image_height": 200,
+            "image_position": "center",
+            "nutzer_name": "Max M.",
+            "datum": "3 days ago",
+            "anzahl_der_sterne": 5,
+            "verifizierte_bewertung": true
+          }
+        },
+        "bewertung_EV4pUQ": {
+          "type": "bewertung",
+          "settings": {
+            "bewertung_text": "<p>\"Sternify is fantastic. It has extremely improved my conversion rate and brought my product page to a level with industry experts, all without developers! Everything in the Shopify Theme Builder.\"</p>",
+            "max_image_height": 200,
+            "image_position": "center",
+            "nutzer_name": "Max M.",
+            "datum": "3 days ago",
+            "anzahl_der_sterne": 5,
+            "verifizierte_bewertung": true
+          }
+        }
+      },
+      "block_order": [
+        "bewertung_m8R9E3",
+        "bewertung_47YjN4",
+        "bewertung_4mk7Fp",
+        "bewertung_EV4pUQ"
+      ],
+      "name": "💫: Testimonials Slider",
+      "settings": {
+        "stil": "google",
+        "gradient_start_color": "#FFFFFF",
+        "section_backround_color": "#EFEFEF",
+        "slider_autoplay": true,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "box_padding_block": 60,
+        "titel_farbe": "#000000",
+        "subtitel_farbe": "#000000",
+        "box_hintergrund": "#ffffff",
+        "box_text": "#000000",
+        "star_color_header": "#fdd663",
+        "star_color_box": "#1B1B1B",
+        "review_color": "#000000",
+        "header": "Deine Zufriedenheit. Unsere Mission.",
+        "subheader": "Siehe was andere Kunden sagen",
+        "bewertung_text": "Sehr gut 4.7/5",
+        "anzahl_der_bewertungen": 5,
+        "button_text": "passiert auf 10.000+ Bewertungen",
+        "button_link": "",
+        "verified_text": "Verified Rating",
+        "header_font": "poppins_n7",
+        "subtitle_font": "poppins_n4",
+        "review_font": "poppins_n4",
+        "show_avatars": true
+      }
     }
   },
   "order": [
     "main",
     "faq_XX8Me4",
-    "related-products"
+    "related-products",
+    "st_testimonials_slider_jdzm8H"
   ]
 }
