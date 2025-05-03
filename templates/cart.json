@@ -141,11 +141,116 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "st_testimonials_slider_rggeLN": {
+      "type": "st_testimonials-slider",
+      "blocks": {
+        "bewertung_WDxQRP": {
+          "type": "bewertung",
+          "settings": {
+            "bewertung_text": "<p>Ich habe für den Preis ehrlich gesagt nicht so eine tolle Qualität erwartet. Die Anhänger sind super verarbeitet und sehen echt luxuriös aus. Bin mega zufrieden.</p>",
+            "max_image_height": 200,
+            "image_position": "center",
+            "nutzer_name": "Selin A.",
+            "datum": "vor 5 Tagen.",
+            "anzahl_der_sterne": 5,
+            "verifizierte_bewertung": true
+          }
+        },
+        "bewertung_Jfx7i7": {
+          "type": "bewertung",
+          "settings": {
+            "bewertung_text": "<p>Ich habe ein Armband und eine Kette bestellt – beides kam liebevoll verpackt an und sieht in echt noch hochwertiger aus als auf den Fotos. Ich wurde schon mehrfach darauf angesprochen!</p>",
+            "max_image_height": 200,
+            "image_position": "center",
+            "nutzer_profilbild": "shopify://shop_images/Bildschirmfoto_2025-04-12_um_04_53_49_png.webp",
+            "nutzer_name": "Maxi M.",
+            "datum": "vor 3 Tagen",
+            "anzahl_der_sterne": 5,
+            "verifizierte_bewertung": true
+          }
+        },
+        "bewertung_iP84Ng": {
+          "type": "bewertung",
+          "settings": {
+            "bewertung_text": "<p>Die Ohrringe waren ein Geburtstagsgeschenk für meine beste Freundin – sie war total begeistert! Qualität top, Versand schnell, werde definitiv wieder bestellen.</p>",
+            "max_image_height": 200,
+            "image_position": "center",
+            "nutzer_profilbild": "shopify://shop_images/Bildschirmfoto_2025-04-12_um_04_54_04_png.webp",
+            "nutzer_name": "Lenie K.",
+            "datum": "vor 12 Tagen",
+            "anzahl_der_sterne": 5,
+            "verifizierte_bewertung": true
+          }
+        },
+        "bewertung_GtXHc6": {
+          "type": "bewertung",
+          "settings": {
+            "bewertung_text": "<p>Ich liebe filigranen Schmuck – und hier stimmt einfach alles: Verarbeitung, Tragekomfort und Stil. Mein neuer Lieblingsshop!</p>",
+            "max_image_height": 200,
+            "image_position": "center",
+            "nutzer_profilbild": "shopify://shop_images/Bildschirmfoto_2025-04-12_um_04_54_18_png.webp",
+            "nutzer_name": "Anja T.",
+            "datum": "vor 3 Wochen",
+            "anzahl_der_sterne": 5,
+            "verifizierte_bewertung": true
+          }
+        },
+        "bewertung_JaiiWJ": {
+          "type": "bewertung",
+          "settings": {
+            "bewertung_text": "<p>Die Kombination aus Halskette und Ohrringen ist ein absoluter Hingucker – egal ob Alltag oder Abend-Outfit. Alles passt perfekt zusammen.</p>",
+            "max_image_height": 200,
+            "image_position": "center",
+            "nutzer_profilbild": "shopify://shop_images/ef189973a6c8ac026f0156350f758fc0-3096718495_jpg.webp",
+            "nutzer_name": "Nina B.",
+            "datum": "vor 4 Wochen",
+            "anzahl_der_sterne": 5,
+            "verifizierte_bewertung": true
+          }
+        }
+      },
+      "block_order": [
+        "bewertung_WDxQRP",
+        "bewertung_Jfx7i7",
+        "bewertung_iP84Ng",
+        "bewertung_GtXHc6",
+        "bewertung_JaiiWJ"
+      ],
+      "name": "💫: Testimonials Slider",
+      "settings": {
+        "stil": "google",
+        "gradient_start_color": "#ffffff",
+        "section_backround_color": "#efefef",
+        "slider_autoplay": true,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "box_padding_block": 60,
+        "titel_farbe": "#000000",
+        "subtitel_farbe": "#000000",
+        "box_hintergrund": "#ffffff",
+        "box_text": "#000000",
+        "star_color_header": "#fdd663",
+        "star_color_box": "#1b1b1b",
+        "review_color": "#000000",
+        "header": "Deine Zufriedenheit. Unsere Mission.",
+        "subheader": "Siehe was andere Kunden sagen",
+        "bewertung_text": "Sehr gut 4.7/5",
+        "anzahl_der_bewertungen": 5,
+        "button_text": "passiert auf 10.000+ Bewertungen",
+        "button_link": "",
+        "verified_text": "Verified Rating",
+        "header_font": "poppins_n7",
+        "subtitle_font": "poppins_n4",
+        "review_font": "poppins_n4",
+        "show_avatars": true
+      }
     }
   },
   "order": [
     "main",
     "17463031612517bc13",
-    "recently_viewed_products_7HqtTg"
+    "recently_viewed_products_7HqtTg",
+    "st_testimonials_slider_rggeLN"
   ]
 }
