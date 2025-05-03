@@ -145,9 +145,9 @@
             "usertrust_text": "<p>und <strong>10k+ </strong>Menschen<strong> </strong>haben bei <strong>Vilea </strong>eingekauft.</p>",
             "font_size": 12,
             "font_picker": "poppins_n6",
-            "hintergrunds_farbe": "#F9F9F9",
+            "hintergrunds_farbe": "#f9f9f9",
             "text_farbe": "#000000",
-            "avatar_border_color": "#CCCCCC",
+            "avatar_border_color": "#cccccc",
             "avatar_border_thickness": 2
           }
         }
@@ -207,7 +207,7 @@
         "item_fRBrC9": {
           "type": "item",
           "settings": {
-            "title": "Warum Viléa",
+            "title": "Warum Viléa und nicht wo anders ?",
             "content": "<p>🚀<strong>Sicher & zuverlässig</strong>– Wir arbeiten mit geprüften Logistikpartnern<br/>📦<strong>100 % Liefergarantie</strong>– Keine leeren Versprechen, bei uns kommt dein Paket sicher an<br/>👥<strong>Echter Kundenservice</strong>– Nicht nur echter-Shop, sondern auch echte Ansprechpartner<br/>💸<strong>Faire Preise & geprüfte Qualität</strong>– Keine billigen Produkte, sondern tested & approved</p>"
           }
         }
