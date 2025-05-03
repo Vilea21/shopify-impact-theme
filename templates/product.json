@@ -187,6 +187,59 @@
         "input_text_color": ""
       }
     },
+    "faq_XX8Me4": {
+      "type": "faq",
+      "blocks": {
+        "item_BhNnV8": {
+          "type": "item",
+          "settings": {
+            "title": "Versandinfo",
+            "content": "<p>Wir bearbeiten und versenden Ihre Bestellung innerhalb von 1–2 Tagen. Die Lieferung erfolgt in der Regel innerhalb von 4–6 Tagen nach Versand.</p>"
+          }
+        },
+        "item_m6RVbV": {
+          "type": "item",
+          "settings": {
+            "title": "14 TAGE EINFACHE RÜCKGABE",
+            "content": "<p><strong>Passt nicht? – Kein Problem!</strong>Du kannst deine Bestellung jederzeit zurückgeben oder umtauschen. Wir bieten eine <strong>14-tägige Rückgabe- oder Umtauschrichtlinie</strong>an. Falls du aus irgendeinem Grund nicht zufrieden bist, erhältst du dein Geld zurück oder kannst dein Produkt umtauschen. Unser Team ist hier, um dir zu helfen! 😊</p>"
+          }
+        },
+        "item_fRBrC9": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_BhNnV8",
+        "item_m6RVbV",
+        "item_fRBrC9"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -224,6 +277,7 @@
   },
   "order": [
     "main",
+    "faq_XX8Me4",
     "related-products"
   ]
 }
