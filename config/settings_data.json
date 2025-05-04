@@ -164,7 +164,8 @@
     "custom_css": [
       "/* Grüner Fortschrittsbalken in allen Zuständen */.progress-bar,.progress-bar::before,.progress-bar::after,.free-shipping-bar__progress,.free-shipping-bar__progress::before,.free-shipping-bar__progress::after,.free-shipping-bar--limit-reached .free-shipping-bar__progress,.free-shipping-bar--limit-reached .free-shipping-bar__progress::before,.free-shipping-bar--limit-reached .free-shipping-bar__progress::after {background-color: #28a745 !important; /* kräftiges Grün */}",
       " /* Optional: runde Ecken für modernen Look */.progress-bar,.free-shipping-bar__progress {border-radius: 9999px; height: 8px; /* du kannst es anpassen */}",
-      " /* \"Zur Kasse\" Button (Hintergrund + Farbe) */.cart-form [name=\"checkout\"],.cart-form [name=\"checkout\"]:hover {background-color: #28a745 !important; /* grüner Hintergrund */ color: white !important; /* weiße Schrift */ border-color: #28a745 !important; /* optional: Rahmen grün */}"
+      " /* \"Zur Kasse\" Button (Hintergrund + Farbe) */.cart-form [name=\"checkout\"],.cart-form [name=\"checkout\"]:hover {background-color: #28a745 !important; /* grüner Hintergrund */ color: white !important; /* weiße Schrift */ border-color: #28a745 !important; /* optional: Rahmen grün */}",
+      ".header__icon--cart svg path {fill: #00A86B !important; /* Ersetze durch deinen gewünschten Grünton */}"
     ]
   }
 }
