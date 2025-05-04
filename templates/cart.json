@@ -55,6 +55,53 @@
         "show_payment_icons": true
       }
     },
+    "tabs_kx8XKt": {
+      "type": "tabs",
+      "blocks": {
+        "tab_Xcdnki": {
+          "type": "tab",
+          "settings": {
+            "title": "Warum Viléa und nicht wo anders?",
+            "content": "<p>🚀<strong>Sicher & zuverlässig</strong>– Wir arbeiten mit geprüften Logistikpartnern<br/>📦<strong>100 % Liefergarantie</strong>– Keine leeren Versprechen, bei uns kommt dein Paket sicher an<br/>👥<strong>Echter Kundenservice</strong>– Nicht nur echter-Shop, sondern auch echte Ansprechpartner<br/>💸<strong>Faire Preise & geprüfte Qualität</strong>– Keine billigen Produkte, sondern tested & approved</p>",
+            "page": ""
+          }
+        },
+        "tab_ffitd7": {
+          "type": "tab",
+          "settings": {
+            "title": "Ich mache mir sorgen, ob meine Bestellung auch wirklich ankommt",
+            "content": "<p>Keine Sorge, bei uns ist alles sicher! Alle Bestellungen werden mit einer <strong>Tracking-Nummer </strong>verschickt, sodass du immer genau sehen kannst, wo dein Paket ist. Und wenn du mit <strong>Klarna </strong>oder <strong>PayPal </strong>bezahlst, hast du <strong>100% Käuferschutz</strong>– falls mal etwas schiefgeht, bist du immer abgesichert. Wir kümmern uns darum, dass du dein Paket schnell bekommst, und du kannst dich ganz entspannt zurücklehnen.</p>",
+            "page": ""
+          }
+        },
+        "tab_cqHfY8": {
+          "type": "tab",
+          "settings": {
+            "title": "Kostenloser Versand WELTWEIT!",
+            "content": "<p>Wir liefern alle Pakete mit DHL,DPD,UPS. Alle unsere Lieferung sind Versandkosten frei WELTWEIT! Du erhältst auch ein Trackinglink, womit du die Sendung verfolgen kannst.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_Xcdnki",
+        "tab_ffitd7",
+        "tab_cqHfY8"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "17463031612517bc13": {
       "type": "apps",
       "blocks": {
@@ -129,7 +176,7 @@
         "stack_products": true,
         "show_progress_bar": false,
         "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
+        "products_per_row_desktop": 4,
         "subheading": "",
         "title": "Wird oft zusammen gekauft:",
         "content": "",
@@ -237,7 +284,7 @@
         "subheader": "Siehe was andere Kunden sagen",
         "bewertung_text": "Sehr gut 4.7/5",
         "anzahl_der_bewertungen": 5,
-        "button_text": "passiert auf 10.000+ Bewertungen",
+        "button_text": "bassiert auf 10.000+ Bewertungen",
         "button_link": "",
         "verified_text": "Verified Rating",
         "header_font": "poppins_n7",
@@ -326,6 +373,7 @@
   },
   "order": [
     "main",
+    "tabs_kx8XKt",
     "17463031612517bc13",
     "recently_viewed_products_7HqtTg",
     "st_testimonials_slider_rggeLN",
