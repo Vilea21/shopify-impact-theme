@@ -1,0 +1,575 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "text_3fm8V3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Inkl Mwst. & Kostenloser DHL Versand</p>"
+          }
+        },
+        "liquid_EpgJxT": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<a href=\"#looxReviews\" style=\"text-decoration: none;\">\n  <div style=\"display: flex; align-items: center; font-size: 16px; font-family: sans-serif; cursor: pointer;\">\n    <!-- Sterne -->\n    <div style=\"color: #FFD700; font-size: 18px; margin-right: 6px;\">\n      ★★★★★\n    </div>\n    <!-- Bewertungstext -->\n    <div style=\"color: #333;\">\n      4.9 basierend auf <strong>200+ Bewertungen</strong>\n    </div>\n  </div>\n</a>"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "sternify_benefit_usp_with_icons_xEwUFM": {
+          "type": "shopify://apps/sternify/blocks/benefit_usp_with_icons/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "icon_1": "shopify://shop_images/57416d65e3db71477dd33a8a234e21_8061b000-23fa-4bb3-aa55-116baa6db83b_webp.png",
+            "text_1": "Kostenloser Versand",
+            "icon_2": "shopify://shop_images/package.png",
+            "text_2": "14 Tägige Rückgabe Garantie",
+            "icon_3": "shopify://shop_images/shower.png",
+            "text_3": "100% Wasserfest Garantie",
+            "text_4": "",
+            "text_5": "",
+            "text_color": "#000000",
+            "text_size": 15,
+            "icon_size": 20
+          }
+        },
+        "sternify_inventory_JVywLN": {
+          "type": "shopify://apps/sternify/blocks/inventory/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "inventory_tracking": "manual",
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "mode": "sold_out",
+            "inventory_text": "Letzte Chance - Nur noch 4 Stück auf Lager!",
+            "font_picker": "poppins_n4",
+            "font_size": 14,
+            "dynamic_available_text": "Letzte Chance - Nur noch 4 Stück auf Lager!",
+            "dynamic_sold_out_text": "Ausverkauft"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#28a745",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "#28a745",
+            "payment_button_text_color": "#28a745"
+          }
+        },
+        "liquid_6HqUWV": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"background-color: #e6fbe6; padding: 15px; border-radius: 8px; display: flex; align-items: center;\">\n  <span style=\"font-size: 20px; margin-right: 10px;\">🎁</span>\n  <div>\n    <strong>1+1 GRATIS, 2+2 GRATIS, 3+3 GRATIS…</strong><br>\n    <span style=\"font-size: 15px;\">Füge 2 Schmuckstücke zu deinem Warenkorb hinzu und erhalte automatisch 1 weiteres gratis!</span>\n  </div>\n</div>"
+          }
+        },
+        "sternify_payment_icons_pbnLEG": {
+          "type": "shopify://apps/sternify/blocks/payment_icons/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "paypal": true,
+            "amex": true,
+            "klarna_rechnung": false,
+            "klarna_sofort": false,
+            "visa": true,
+            "mastercard": true,
+            "klarna": true,
+            "apple_pay": true,
+            "google_pay": true,
+            "twint": false,
+            "ideal": false,
+            "bancontact": false
+          }
+        },
+        "sternify_user_trust_with_names_Un6xP9": {
+          "type": "shopify://apps/sternify/blocks/user_trust_with_names/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "profil_bild_1": "shopify://shop_images/425800300_1306107896736543_4012793055609237884_n.jpg",
+            "profil_bild_2": "shopify://shop_images/431489666_921800649576639_8542129367285977698_n.jpg",
+            "profil_bild_3": "shopify://shop_images/486655551_1193740829095881_24994864699223105_n.jpg",
+            "nutzername_1": "LeniKlum",
+            "nutzername_2": "JuliaBeautx",
+            "nutzername_3": "",
+            "verifiziert": true,
+            "usertrust_text": "<p>und <strong>10k+ </strong>Menschen<strong> </strong>haben bei <strong>Vilea </strong>eingekauft.</p>",
+            "font_size": 12,
+            "font_picker": "poppins_n6",
+            "hintergrunds_farbe": "#f9f9f9",
+            "text_farbe": "#000000",
+            "avatar_border_color": "#cccccc",
+            "avatar_border_thickness": 2
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "badges",
+        "price",
+        "text_3fm8V3",
+        "liquid_EpgJxT",
+        "rating",
+        "payment_terms",
+        "separator",
+        "variant_picker",
+        "sternify_benefit_usp_with_icons_xEwUFM",
+        "sternify_inventory_JVywLN",
+        "quantity_selector",
+        "buy_buttons",
+        "liquid_6HqUWV",
+        "sternify_payment_icons_pbnLEG",
+        "sternify_user_trust_with_names_Un6xP9"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "faq_XX8Me4": {
+      "type": "faq",
+      "blocks": {
+        "item_fRBrC9": {
+          "type": "item",
+          "settings": {
+            "title": "Warum Viléa und nicht wo anders ?",
+            "content": "<p>🚀<strong>Sicher & zuverlässig</strong>– Wir arbeiten mit geprüften Logistikpartnern<br/>📦<strong>100 % Liefergarantie</strong>– Keine leeren Versprechen, bei uns kommt dein Paket sicher an<br/>👥<strong>Echter Kundenservice</strong>– Nicht nur echter-Shop, sondern auch echte Ansprechpartner<br/>💸<strong>Faire Preise & geprüfte Qualität</strong>– Keine billigen Produkte, sondern tested & approved</p>"
+          }
+        },
+        "item_BhNnV8": {
+          "type": "item",
+          "settings": {
+            "title": "Versandinfo",
+            "content": "<p>Wir bearbeiten und versenden Ihre Bestellung innerhalb von 1–2 Tagen. Die Lieferung erfolgt in der Regel innerhalb von 4–6 Tagen nach Versand.</p>"
+          }
+        },
+        "item_m6RVbV": {
+          "type": "item",
+          "settings": {
+            "title": "14 TAGE EINFACHE RÜCKGABE",
+            "content": "<p><strong>Passt nicht? – Kein Problem!</strong>Du kannst deine Bestellung jederzeit zurückgeben oder umtauschen. Wir bieten eine <strong>14-tägige Rückgabe- oder Umtauschrichtlinie</strong>an. Falls du aus irgendeinem Grund nicht zufrieden bist, erhältst du dein Geld zurück oder kannst dein Produkt umtauschen. Unser Team ist hier, um dir zu helfen! 😊</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_fRBrC9",
+        "item_BhNnV8",
+        "item_m6RVbV"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [
+          "black-n-white-set",
+          "abby-ring-diamant-gold",
+          "amari-armreif",
+          "amber-armband-rosegold-rotes-muster",
+          "amber-feline-ring-diamant-silber",
+          "armband-elegance-nagel-deluxe-silver",
+          "cc-set-gold-1",
+          "cc-halskette",
+          "cd-halskette",
+          "clou-ring-schmal",
+          "deluxe-vierblatt-silber"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "DAS KÖNNTE DIR AUCH GEFALLEN:",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "st_testimonials_slider_jdzm8H": {
+      "type": "st_testimonials-slider",
+      "blocks": {
+        "bewertung_EV4pUQ": {
+          "type": "bewertung",
+          "settings": {
+            "bewertung_text": "<p>Ich habe für den Preis ehrlich gesagt nicht so eine tolle Qualität erwartet. Die Anhänger sind super verarbeitet und sehen echt luxuriös aus. Bin mega zufrieden.</p>",
+            "max_image_height": 200,
+            "image_position": "center",
+            "nutzer_name": "Selin A.",
+            "datum": "vor 5 Tagen.",
+            "anzahl_der_sterne": 5,
+            "verifizierte_bewertung": true
+          }
+        },
+        "bewertung_m8R9E3": {
+          "type": "bewertung",
+          "settings": {
+            "bewertung_text": "<p>Ich habe ein Armband und eine Kette bestellt – beides kam liebevoll verpackt an und sieht in echt noch hochwertiger aus als auf den Fotos. Ich wurde schon mehrfach darauf angesprochen!</p>",
+            "max_image_height": 200,
+            "image_position": "center",
+            "nutzer_profilbild": "shopify://shop_images/Bildschirmfoto_2025-04-12_um_04_53_49_png.webp",
+            "nutzer_name": "Maxi M.",
+            "datum": "vor 3 Tagen",
+            "anzahl_der_sterne": 5,
+            "verifizierte_bewertung": true
+          }
+        },
+        "bewertung_47YjN4": {
+          "type": "bewertung",
+          "settings": {
+            "bewertung_text": "<p>Die Ohrringe waren ein Geburtstagsgeschenk für meine beste Freundin – sie war total begeistert! Qualität top, Versand schnell, werde definitiv wieder bestellen.</p>",
+            "max_image_height": 200,
+            "image_position": "center",
+            "nutzer_profilbild": "shopify://shop_images/Bildschirmfoto_2025-04-12_um_04_54_04_png.webp",
+            "nutzer_name": "Lenie K.",
+            "datum": "vor 12 Tagen",
+            "anzahl_der_sterne": 5,
+            "verifizierte_bewertung": true
+          }
+        },
+        "bewertung_4mk7Fp": {
+          "type": "bewertung",
+          "settings": {
+            "bewertung_text": "<p>Ich liebe filigranen Schmuck – und hier stimmt einfach alles: Verarbeitung, Tragekomfort und Stil. Mein neuer Lieblingsshop!</p>",
+            "max_image_height": 200,
+            "image_position": "center",
+            "nutzer_profilbild": "shopify://shop_images/Bildschirmfoto_2025-04-12_um_04_54_18_png.webp",
+            "nutzer_name": "Anja T.",
+            "datum": "vor 3 Wochen",
+            "anzahl_der_sterne": 5,
+            "verifizierte_bewertung": true
+          }
+        },
+        "bewertung_zGWBXN": {
+          "type": "bewertung",
+          "settings": {
+            "bewertung_text": "<p>Die Kombination aus Halskette und Ohrringen ist ein absoluter Hingucker – egal ob Alltag oder Abend-Outfit. Alles passt perfekt zusammen.</p>",
+            "max_image_height": 200,
+            "image_position": "center",
+            "nutzer_profilbild": "shopify://shop_images/ef189973a6c8ac026f0156350f758fc0-3096718495_jpg.webp",
+            "nutzer_name": "Nina B.",
+            "datum": "vor 4 Wochen",
+            "anzahl_der_sterne": 5,
+            "verifizierte_bewertung": true
+          }
+        }
+      },
+      "block_order": [
+        "bewertung_EV4pUQ",
+        "bewertung_m8R9E3",
+        "bewertung_47YjN4",
+        "bewertung_4mk7Fp",
+        "bewertung_zGWBXN"
+      ],
+      "name": "💫: Testimonials Slider",
+      "settings": {
+        "stil": "google",
+        "gradient_start_color": "#ffffff",
+        "section_backround_color": "#efefef",
+        "slider_autoplay": true,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "box_padding_block": 60,
+        "titel_farbe": "#000000",
+        "subtitel_farbe": "#000000",
+        "box_hintergrund": "#ffffff",
+        "box_text": "#000000",
+        "star_color_header": "#fdd663",
+        "star_color_box": "#1b1b1b",
+        "review_color": "#000000",
+        "header": "Deine Zufriedenheit. Unsere Mission.",
+        "subheader": "Siehe was andere Kunden sagen",
+        "bewertung_text": "Sehr gut 4.7/5",
+        "anzahl_der_bewertungen": 5,
+        "button_text": "bassiert auf 10.000+ Bewertungen",
+        "button_link": "",
+        "verified_text": "Verified Rating",
+        "header_font": "poppins_n7",
+        "subtitle_font": "poppins_n4",
+        "review_font": "poppins_n4",
+        "show_avatars": true
+      }
+    },
+    "media_with_text_FT4Lxe": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_nn47mX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Ring_stacking_2_png.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "TAUCHE EIN IN DIE WELT STRAHLENDER ELEGANZ",
+            "content": "<p>Jedes Schmuckstück ist ein Unikat aus hochwertigem Edelstahl, hypoallergen und farbecht – ideal auch für empfindliche Haut. Wir setzen auf höchste Qualität und Präzision, um dir das perfekte Accessoire zu bieten.</p><p>Falls du nicht vollkommen zufrieden bist: Innerhalb von 14 Tagen garantieren wir dir eine unkomplizierte Rückerstattung oder einen Umtausch. Dein Lächeln ist unser Ziel.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_nn47mX"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "st_shoppable_slider_n3wJXy": {
+      "type": "st_shoppable-slider",
+      "blocks": {
+        "slider_video_F79WtW": {
+          "type": "slider_video",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7491054467756985622_hd.MP4",
+            "user_name": "",
+            "sub_text": "",
+            "slider_product": "",
+            "slider_product_text": "",
+            "show_verified_icon": false
+          }
+        },
+        "slider_video_tXdbMK": {
+          "type": "slider_video",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7499290191333657878_hd.MP4",
+            "user_name": "",
+            "sub_text": "",
+            "slider_product": "",
+            "slider_product_text": "",
+            "show_verified_icon": false
+          }
+        },
+        "slider_video_GxGwfn": {
+          "type": "slider_video",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7499289640235584790_hd.MP4",
+            "user_name": "",
+            "sub_text": "",
+            "slider_product": "",
+            "slider_product_text": "",
+            "show_verified_icon": false
+          }
+        },
+        "slider_video_Hgit8R": {
+          "type": "slider_video",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7499289564700282134_hd.MP4",
+            "user_name": "Sarah M.",
+            "sub_text": "",
+            "slider_product": "",
+            "slider_product_text": "",
+            "show_verified_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "slider_video_F79WtW",
+        "slider_video_tXdbMK",
+        "slider_video_GxGwfn",
+        "slider_video_Hgit8R"
+      ],
+      "name": "💫: Shoppable Slider",
+      "settings": {
+        "margin_top": 50,
+        "margin_bottom": 50,
+        "title": "Kunden Videos:",
+        "subtitle": "",
+        "title_font": "poppins_n6",
+        "title_fontsize_desktop": 45,
+        "title_fontsize_mobile": 32,
+        "subtitle_font": "poppins_n3",
+        "subtitle_fontsize_desktop": 20,
+        "subtitle_fontsize_mobile": 16,
+        "text_font": "poppins_n4",
+        "text_fontsize": 16,
+        "title_color": "#000000",
+        "subtitle_color": "#4a4a4a",
+        "username_color": "#ffffff",
+        "description_color": "#ffffff",
+        "button_bg_color": "#4a4a4a",
+        "button_icon_color": "#ffffff",
+        "verified_icon_color": "#42a5f5"
+      }
+    },
+    "tabs_E8LpUb": {
+      "type": "tabs",
+      "blocks": {
+        "tab_PjWbfj": {
+          "type": "tab",
+          "settings": {
+            "title": "Aus welchen Materialien sind die Schmuckstücke gefertigt?",
+            "content": "<p>Wir verwenden <strong>Premium-Edelstahl</strong>, um Ihre Schönheit zu gewährleisten und jedes Schmuckstück mit höchster Präzision zu perfektionieren.</p>",
+            "page": ""
+          }
+        },
+        "tab_kDQJrr": {
+          "type": "tab",
+          "settings": {
+            "title": "Ist es Wasserbeständig?",
+            "content": "<p>Ja, es ist zu <strong>100 % wasser-, schweiß- und hitzebeständig. </strong>Dadurch kannst du selbst mit empfindlicher Haut deinem Look den perfekten Feinschliff verleihen.</p>",
+            "page": ""
+          }
+        },
+        "tab_F73Mwx": {
+          "type": "tab",
+          "settings": {
+            "title": "Wie pflege ich mein Schmuck?",
+            "content": "<p>Um ihre Schönheit zu bewahren, lagern Sie sie an einem trockenen Ort und reinigen Sie sie vorsichtig mit einem weichen Tuch.</p>",
+            "page": ""
+          }
+        },
+        "tab_mfNtgK": {
+          "type": "tab",
+          "settings": {
+            "title": "Sind die Schmuckstücke universell?",
+            "content": "<p>Ja,<strong>alle unsere Schmuckstücke sind universell einsetzbarund passen zu jedem.</strong>Bei Fragen nutzen Sie bitte unser Kontaktformular.</p>",
+            "page": ""
+          }
+        },
+        "tab_9gCMWH": {
+          "type": "tab",
+          "settings": {
+            "title": "Wie lang dauert der Versand?",
+            "content": "<p>Wir bearbeiten und versenden Ihre Bestellung innerhalb von <strong>1–2 Tagen</strong>. Die Lieferung erfolgt in der Regel innerhalb von<strong> 3–5 Tagen</strong> nach Versand.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_PjWbfj",
+        "tab_kDQJrr",
+        "tab_F73Mwx",
+        "tab_mfNtgK",
+        "tab_9gCMWH"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "Häufig gestellte Fragen",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "faq_XX8Me4",
+    "related-products",
+    "st_testimonials_slider_jdzm8H",
+    "media_with_text_FT4Lxe",
+    "st_shoppable_slider_n3wJXy",
+    "tabs_E8LpUb"
+  ]
+}
