@@ -113,6 +113,7 @@
         },
         "liquid_6HqUWV": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div style=\"background-color: #e6fbe6; padding: 15px; border-radius: 8px; display: flex; align-items: center;\">\n  <span style=\"font-size: 20px; margin-right: 10px;\">🎁</span>\n  <div>\n    <strong>1+1 GRATIS, 2+2 GRATIS, 3+3 GRATIS…</strong><br>\n    <span style=\"font-size: 15px;\">Füge 2 Schmuckstücke zu deinem Warenkorb hinzu und erhalte automatisch 1 weiteres gratis!</span>\n  </div>\n</div>"
           }
@@ -252,17 +253,15 @@
       "settings": {
         "recommendations_count": 6,
         "products": [
-          "black-n-white-set",
-          "abby-ring-diamant-gold",
-          "amari-armreif",
-          "amber-armband-rosegold-rotes-muster",
-          "amber-feline-ring-diamant-silber",
-          "armband-elegance-nagel-deluxe-silver",
-          "cc-set-gold-1",
-          "cc-halskette",
-          "cd-halskette",
-          "clou-ring-schmal",
-          "deluxe-vierblatt-silber"
+          "solve-runner-sneaker",
+          "solve-essence-sneaker",
+          "solve-chunky-sneaker",
+          "og-sole-low-top-sneaker",
+          "lv-trainer-sneaker",
+          "solve-virale-lou-sneaker",
+          "vilea-trainer-sneaker",
+          "hank-low-top-sneaker",
+          "flared-peterson-low-top-sneaker"
         ],
         "full_width": true,
         "stack_products": false,
