@@ -111,6 +111,12 @@
             "payment_button_text_color": "#28a745"
           }
         },
+        "liquid_6HqUWV": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"background-color: #e6fbe6; padding: 15px; border-radius: 8px; display: flex; align-items: center;\">\n  <span style=\"font-size: 20px; margin-right: 10px;\">🎁</span>\n  <div>\n    <strong>1+1 GRATIS, 2+2 GRATIS, 3+3 GRATIS…</strong><br>\n    <span style=\"font-size: 15px;\">Füge 2 Schmuckstücke zu deinem Warenkorb hinzu und erhalte automatisch 1 weiteres gratis!</span>\n  </div>\n</div>"
+          }
+        },
         "sternify_payment_icons_pbnLEG": {
           "type": "shopify://apps/sternify/blocks/payment_icons/fcc6e879-7d9e-4924-b387-68cfab68cec6",
           "settings": {
@@ -166,6 +172,7 @@
         "sternify_inventory_JVywLN",
         "quantity_selector",
         "buy_buttons",
+        "liquid_6HqUWV",
         "sternify_payment_icons_pbnLEG",
         "sternify_user_trust_with_names_Un6xP9"
       ],
