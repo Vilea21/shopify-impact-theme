@@ -55,6 +55,19 @@
         "show_payment_icons": true
       }
     },
+    "custom_liquid_mkEd9Y": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"background-color: #e6fbe6; padding: 15px; border-radius: 8px; display: flex; align-items: center;\">\n  <span style=\"font-size: 20px; margin-right: 10px;\">🎁</span>\n  <div>\n    <strong>1+1 GRATIS, 2+2 GRATIS, 3+3 GRATIS…</strong><br>\n    <span style=\"font-size: 15px;\">Füge 2 Schmuckstücke zu deinem Warenkorb hinzu und erhalte automatisch 1 weiteres gratis!</span>\n  </div>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "tabs_kx8XKt": {
       "type": "tabs",
       "blocks": {
@@ -373,6 +386,7 @@
   },
   "order": [
     "main",
+    "custom_liquid_mkEd9Y",
     "tabs_kx8XKt",
     "17463031612517bc13",
     "recently_viewed_products_7HqtTg",
