@@ -219,12 +219,20 @@
             "title": "14 TAGE EINFACHE RÜCKGABE",
             "content": "<p><strong>Passt nicht? – Kein Problem!</strong>Du kannst deine Bestellung jederzeit zurückgeben oder umtauschen. Wir bieten eine <strong>14-tägige Rückgabe- oder Umtauschrichtlinie</strong>an. Falls du aus irgendeinem Grund nicht zufrieden bist, erhältst du dein Geld zurück oder kannst dein Produkt umtauschen. Unser Team ist hier, um dir zu helfen! 😊</p>"
           }
+        },
+        "item_HMpJzk": {
+          "type": "item",
+          "settings": {
+            "title": "Beschreibung",
+            "content": "<p>Unsere hochwertigen Schuhe vereinen maximalen Komfort mit modernem Design. Das weiche Material sorgt für ein ultra-angenehmes Tragegefühl, während der lässige, leicht oversize Schnitt den perfekten Look liefert. Das minimalistische Design mit dezenten Details macht sie zum Must-Have für alle, die Stil und Gemütlichkeit in einem Schuh vereinen möchten.</p><p>Egal, ob du nach dem perfekten Sneaker für den Alltag suchst oder einen eleganten Schuh für besondere Anlässe benötigst – bei uns findest du das perfekte Paar, das sowohl deinen Stil als auch deine Komfortbedürfnisse erfüllt. Hol dir noch heute deinen neuen Lieblingsschuh!</p>"
+          }
         }
       },
       "block_order": [
         "item_fRBrC9",
         "item_BhNnV8",
-        "item_m6RVbV"
+        "item_m6RVbV",
+        "item_HMpJzk"
       ],
       "name": "FAQ",
       "settings": {
