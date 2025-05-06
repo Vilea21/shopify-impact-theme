@@ -43,7 +43,7 @@
         "show_color_swatch": true,
         "show_empty_filter_values": false,
         "show_filter_values_count": true,
-        "open_first_filter_group": false
+        "open_first_filter_group": true
       }
     }
   },
