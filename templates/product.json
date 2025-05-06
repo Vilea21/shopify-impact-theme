@@ -252,17 +252,12 @@
       "settings": {
         "recommendations_count": 6,
         "products": [
-          "black-n-white-set",
-          "abby-ring-diamant-gold",
-          "amari-armreif",
-          "amber-armband-rosegold-rotes-muster",
-          "amber-feline-ring-diamant-silber",
-          "armband-elegance-nagel-deluxe-silver",
-          "cc-set-gold-1",
-          "cc-halskette",
-          "cd-halskette",
-          "clou-ring-schmal",
-          "deluxe-vierblatt-silber"
+          "saint-luxe-armband-gold",
+          "lottie-bracelet-gold-1",
+          "clara-klee-diamant-armband",
+          "cc-set-gold",
+          "love-ring-schmal",
+          "isabelle-ring-klein"
         ],
         "full_width": true,
         "stack_products": false,
