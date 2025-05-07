@@ -18,6 +18,12 @@
             "heading_tag": "h2"
           }
         },
+        "liquid_eRJQRA": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "{% assign weekday = 'now' | date: \"%A\" %}\n{% case weekday %}\n  {% when 'Monday' %}{% assign weekday_de = 'Montag' %}\n  {% when 'Tuesday' %}{% assign weekday_de = 'Dienstag' %}\n  {% when 'Wednesday' %}{% assign weekday_de = 'Mittwoch' %}\n  {% when 'Thursday' %}{% assign weekday_de = 'Donnerstag' %}\n  {% when 'Friday' %}{% assign weekday_de = 'Freitag' %}\n  {% when 'Saturday' %}{% assign weekday_de = 'Samstag' %}\n  {% when 'Sunday' %}{% assign weekday_de = 'Sonntag' %}\n{% endcase %}\n\n<p style=\"color: #d70000; font-weight: normal; font-size: 16px; font-family: inherit; margin: 0 0 10px 0;\">\n  Angebot endet am {{ weekday_de }}, den {{ 'now' | date: \"%-d.%-m.%Y\" }}\n</p>"
+          }
+        },
         "badges": {
           "type": "badges",
           "settings": {}
@@ -162,6 +168,7 @@
       },
       "block_order": [
         "title",
+        "liquid_eRJQRA",
         "badges",
         "price",
         "text_3fm8V3",
