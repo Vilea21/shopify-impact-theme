@@ -1,0 +1,685 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "liquid_eRJQRA": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "{% assign weekday = 'now' | date: \"%A\" %}\n{% case weekday %}\n  {% when 'Monday' %}{% assign weekday_de = 'Montag' %}\n  {% when 'Tuesday' %}{% assign weekday_de = 'Dienstag' %}\n  {% when 'Wednesday' %}{% assign weekday_de = 'Mittwoch' %}\n  {% when 'Thursday' %}{% assign weekday_de = 'Donnerstag' %}\n  {% when 'Friday' %}{% assign weekday_de = 'Freitag' %}\n  {% when 'Saturday' %}{% assign weekday_de = 'Samstag' %}\n  {% when 'Sunday' %}{% assign weekday_de = 'Sonntag' %}\n{% endcase %}\n\n<p style=\"color: #d70000; font-weight: normal; font-size: 16px; font-family: inherit; margin: 0 0 10px 0;\">\n  Angebot endet am {{ weekday_de }}, den {{ 'now' | date: \"%-d.%-m.%Y\" }}\n</p>"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": true
+          }
+        },
+        "text_3fm8V3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Kostenloser Versand & 14 Tage Rückgaberecht</p>"
+          }
+        },
+        "liquid_EpgJxT": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<a href=\"#looxReviews\" style=\"text-decoration: none;\">\n  <div style=\"display: flex; align-items: center; font-size: 16px; font-family: sans-serif; cursor: pointer;\">\n    <!-- Sterne -->\n    <div style=\"color: #FFD700; font-size: 18px; margin-right: 6px;\">\n      ★★★★★\n    </div>\n    <!-- Bewertungstext -->\n    <div style=\"color: #333;\">\n      4.9 basierend auf <strong>200+ Bewertungen</strong>\n    </div>\n  </div>\n</a>"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "sternify_user_trust_with_names_Un6xP9": {
+          "type": "shopify://apps/sternify/blocks/user_trust_with_names/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "profil_bild_1": "shopify://shop_images/20a045a717d44bfbe5f28fba27c5152f-3190242398_jpg.webp",
+            "profil_bild_2": "shopify://shop_images/ext-30_jpg-700x1050_webp.jpg",
+            "nutzername_1": "Leon",
+            "nutzername_2": "Julia",
+            "nutzername_3": "",
+            "verifiziert": true,
+            "usertrust_text": "<p>und <strong>10k+ </strong>andere sind begeistert von Vilèa</p>",
+            "font_size": 12,
+            "font_picker": "poppins_n6",
+            "hintergrunds_farbe": "#f9f9f9",
+            "text_farbe": "#000000",
+            "avatar_border_color": "#cccccc",
+            "avatar_border_thickness": 2
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "dropdown",
+            "color_mode": "variant",
+            "size_chart_page": ""
+          }
+        },
+        "sternify_benefit_usp_with_icons_xEwUFM": {
+          "type": "shopify://apps/sternify/blocks/benefit_usp_with_icons/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "disabled": true,
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "icon_1": "shopify://shop_images/57416d65e3db71477dd33a8a234e21_8061b000-23fa-4bb3-aa55-116baa6db83b_webp.png",
+            "text_1": "Kostenloser Versand",
+            "icon_2": "shopify://shop_images/package.png",
+            "text_2": "14 Tägige Rückgabe Garantie",
+            "icon_3": "shopify://shop_images/shower.png",
+            "text_3": "100% Wasserfest Garantie",
+            "text_4": "",
+            "text_5": "",
+            "text_color": "#000000",
+            "text_size": 15,
+            "icon_size": 20
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "sternify_inventory_JVywLN": {
+          "type": "shopify://apps/sternify/blocks/inventory/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "inventory_tracking": "manual",
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "mode": "sold_out",
+            "inventory_text": "Letzte Chance - Nur noch 4 Stück auf Lager!",
+            "font_picker": "poppins_n4",
+            "font_size": 14,
+            "dynamic_available_text": "Letzte Chance - Nur noch 4 Stück auf Lager!",
+            "dynamic_sold_out_text": "Ausverkauft"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#28a745",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "#28a745",
+            "payment_button_text_color": "#28a745"
+          }
+        },
+        "liquid_6HqUWV": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div style=\"background-color: #e6fbe6; padding: 15px; border-radius: 8px; display: flex; align-items: center;\">\n  <span style=\"font-size: 20px; margin-right: 10px;\">🎁</span>\n  <div>\n    <strong>1+1 GRATIS, 2+2 GRATIS, 3+3 GRATIS…</strong><br>\n    <span style=\"font-size: 15px;\">Füge 2 Schmuckstücke zu deinem Warenkorb hinzu und erhalte automatisch 1 weiteres gratis!</span>\n  </div>\n</div>"
+          }
+        },
+        "sternify_payment_icons_pbnLEG": {
+          "type": "shopify://apps/sternify/blocks/payment_icons/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "paypal": true,
+            "amex": true,
+            "klarna_rechnung": false,
+            "klarna_sofort": false,
+            "visa": true,
+            "mastercard": true,
+            "klarna": true,
+            "apple_pay": true,
+            "google_pay": true,
+            "twint": false,
+            "ideal": false,
+            "bancontact": false
+          }
+        },
+        "sternify_shipping_timeline_yJD3qD": {
+          "type": "shopify://apps/sternify/blocks/shipping_timeline/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "shipping_time_enabled": true,
+            "shipping_time": 5,
+            "delivery_time": 3,
+            "buffer_time": 4,
+            "calculate_weekends": false,
+            "show_shipping_days_as_text": false,
+            "ordered_text": "Bestellt",
+            "ordered_text_under": "Heute",
+            "shipped_text": "Versendet",
+            "arrived_text": "Zugestellt",
+            "delivery_text_enabled": true,
+            "delivery_text_start": "Wenn Du innerhalb",
+            "delivery_text_end": "bestellst",
+            "delivery_hours": "Stdn.",
+            "delivery_minutes": "Min.",
+            "animated_line": true,
+            "box_color": "#f5f5f5",
+            "text_color": "#000000",
+            "hours_color": "#006631",
+            "icon_size": 30
+          }
+        },
+        "sternify_benefit_four_boxes_t3ACwT": {
+          "type": "shopify://apps/sternify/blocks/benefit_four_boxes/fcc6e879-7d9e-4924-b387-68cfab68cec6",
+          "settings": {
+            "Abstand_oben": 0,
+            "Abstand_unten": 0,
+            "titel_1": "<strong>Kostenloser Versand</strong>",
+            "subtext_1": "in 4-7 Tagen bei dir zu Hause",
+            "icon_2": "shopify://shop_images/klarna_letter_only_png.webp",
+            "titel_2": "<strong>Ratenzahlung</strong>",
+            "subtext_2": "mit Klarna",
+            "icon_3": "shopify://shop_images/st_heart-icon.svg",
+            "titel_3": "<strong>Premium Qualität</strong>",
+            "subtext_3": "Designed in Germany",
+            "titel_4": "<strong>14 Tage Rückgaberecht</strong>",
+            "subtext_4": "Sicher Einkaufen",
+            "font_picker": "poppins_n4",
+            "title_size": 13,
+            "subtext_size": 11,
+            "box_rounded": 0,
+            "hintergrunds_farbe": "#f6f6f6",
+            "text_farbe": "#000000"
+          }
+        },
+        "collapsible_text_ExnxTC": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Beschreibung",
+            "content": "<p><strong>Ultimativer Komfort und Stil – Deine perfekten Schuhe!</strong></p><p>Unsere hochwertigen Schuhe vereinen maximalen Komfort mit modernem Design. Das weiche Material sorgt für ein ultra-angenehmes Tragegefühl, während der lässige, leicht oversize Schnitt den perfekten Look liefert. Das minimalistische Design mit dezenten Details macht sie zum Must-Have für alle, die Stil und Gemütlichkeit in einem Schuh vereinen möchten.</p><p>Egal, ob du nach dem perfekten Sneaker für den Alltag suchst oder einen eleganten Schuh für besondere Anlässe benötigst – bei uns findest du das perfekte Paar, das sowohl deinen Stil als auch deine Komfortbedürfnisse erfüllt. Hol dir noch heute deinen neuen Lieblingsschuh!</p>"
+          }
+        },
+        "collapsible_text_G3c7pq": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "2 Monate Garantie",
+            "content": "<p>Innerhalb der ersten 6 Monate kümmern wir uns um Probleme, die bei gewöhnlicher Nutzung entstehen.</p>"
+          }
+        },
+        "collapsible_text_rDG6Gt": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "14 Tage Geld-zutück-Garantie",
+            "content": "<p>Du kannst dein Modell innerhalb der 14-Tage-Frist zurückgeben und kriegst dein volles Geld erstattet.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "liquid_eRJQRA",
+        "badges",
+        "price",
+        "text_3fm8V3",
+        "liquid_EpgJxT",
+        "rating",
+        "payment_terms",
+        "sternify_user_trust_with_names_Un6xP9",
+        "separator",
+        "variant_picker",
+        "sternify_benefit_usp_with_icons_xEwUFM",
+        "quantity_selector",
+        "sternify_inventory_JVywLN",
+        "buy_buttons",
+        "liquid_6HqUWV",
+        "sternify_payment_icons_pbnLEG",
+        "sternify_shipping_timeline_yJD3qD",
+        "sternify_benefit_four_boxes_t3ACwT",
+        "collapsible_text_ExnxTC",
+        "collapsible_text_G3c7pq",
+        "collapsible_text_rDG6Gt"
+      ],
+      "custom_css": [],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "st_shoppable_slider_n3wJXy": {
+      "type": "st_shoppable-slider",
+      "blocks": {
+        "slider_video_F79WtW": {
+          "type": "slider_video",
+          "settings": {
+            "video": "shopify://files/videos/SnapTik-dot-Kim-9dbcec83900b4ba3f2e937a2e7745e9b.mp4",
+            "user_name": "",
+            "sub_text": "",
+            "slider_product": "",
+            "slider_product_text": "",
+            "show_verified_icon": false
+          }
+        },
+        "slider_video_tXdbMK": {
+          "type": "slider_video",
+          "settings": {
+            "video": "shopify://files/videos/SnapTik-dot-Kim-e20a97027d2af63c7fbd6c3a13c75488.mp4",
+            "user_name": "",
+            "sub_text": "",
+            "slider_product": "",
+            "slider_product_text": "",
+            "show_verified_icon": false
+          }
+        },
+        "slider_video_GxGwfn": {
+          "type": "slider_video",
+          "settings": {
+            "video": "shopify://files/videos/SnapTik-dot-Kim-8231f1b882e3e6502c6ad8cb8e1af882.mp4",
+            "user_name": "",
+            "sub_text": "",
+            "slider_product": "",
+            "slider_product_text": "",
+            "show_verified_icon": false
+          }
+        },
+        "slider_video_Hgit8R": {
+          "type": "slider_video",
+          "settings": {
+            "video": "shopify://files/videos/SnapTik-dot-Kim-d58eba39e85ca8729553eda8c19e5189.mp4",
+            "user_name": "Sarah M.",
+            "sub_text": "",
+            "slider_product": "",
+            "slider_product_text": "",
+            "show_verified_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "slider_video_F79WtW",
+        "slider_video_tXdbMK",
+        "slider_video_GxGwfn",
+        "slider_video_Hgit8R"
+      ],
+      "name": "💫: Shoppable Slider",
+      "settings": {
+        "margin_top": 50,
+        "margin_bottom": 50,
+        "title": "Unsere Kunden sind begeistert",
+        "subtitle": "über 10.000+ zufriedene Kunden!",
+        "title_font": "poppins_n6",
+        "title_fontsize_desktop": 45,
+        "title_fontsize_mobile": 32,
+        "subtitle_font": "poppins_n3",
+        "subtitle_fontsize_desktop": 20,
+        "subtitle_fontsize_mobile": 16,
+        "text_font": "poppins_n4",
+        "text_fontsize": 16,
+        "title_color": "#000000",
+        "subtitle_color": "#4a4a4a",
+        "username_color": "#ffffff",
+        "description_color": "#ffffff",
+        "button_bg_color": "#4a4a4a",
+        "button_icon_color": "#ffffff",
+        "verified_icon_color": "#42a5f5"
+      }
+    },
+    "st_testimonials_slider_jdzm8H": {
+      "type": "st_testimonials-slider",
+      "blocks": {
+        "bewertung_EV4pUQ": {
+          "type": "bewertung",
+          "settings": {
+            "bewertung_text": "<p>Ich liebe diese Sneaker! Sie sehen nicht nur super stylisch aus, sondern sind auch mega bequem – selbst nach einem langen Tag auf den Beinen. Und das Beste: Ich wurde schon mehrfach gefragt, wo ich sie herhabe 😍</p>",
+            "max_image_height": 200,
+            "image_position": "center",
+            "nutzer_name": "Selin A.",
+            "datum": "vor 5 Tagen.",
+            "anzahl_der_sterne": 5,
+            "verifizierte_bewertung": true
+          }
+        },
+        "bewertung_m8R9E3": {
+          "type": "bewertung",
+          "settings": {
+            "bewertung_text": "<p>Endlich ein Schuh, der gut aussieht und gleichzeitig alltagstauglich ist. Ich trage ihn zum Shoppen, im Büro und sogar zum Reisen – total vielseitig. Top Preis-Leistung!</p>",
+            "max_image_height": 200,
+            "image_position": "center",
+            "nutzer_profilbild": "shopify://shop_images/20a045a717d44bfbe5f28fba27c5152f-3190242398_jpg.webp",
+            "nutzer_name": "Maxim M.",
+            "datum": "vor 3 Tagen",
+            "anzahl_der_sterne": 5,
+            "verifizierte_bewertung": true
+          }
+        },
+        "bewertung_47YjN4": {
+          "type": "bewertung",
+          "settings": {
+            "bewertung_text": "<p>Ich war skeptisch wegen des Online-Kaufs, aber die Qualität hat mich total überrascht. Super Verarbeitung, die Sohle ist weich und die Passform war direkt perfekt. Würde ich sofort wieder kaufen!</p>",
+            "max_image_height": 200,
+            "image_position": "center",
+            "nutzer_profilbild": "shopify://shop_images/Bildschirmfoto_2025-04-12_um_04_54_04_png.webp",
+            "nutzer_name": "Lenie K.",
+            "datum": "vor 12 Tagen",
+            "anzahl_der_sterne": 5,
+            "verifizierte_bewertung": true
+          }
+        },
+        "bewertung_4mk7Fp": {
+          "type": "bewertung",
+          "settings": {
+            "bewertung_text": "<p>Der Schuh ist nicht nur bequem, sondern auch ein echter Hingucker. Das Design wirkt hochwertig, die Farbe passt zu allem – mein neuer Lieblingsschuh von Vilèa!</p>",
+            "max_image_height": 200,
+            "image_position": "center",
+            "nutzer_profilbild": "shopify://shop_images/Bildschirmfoto_2025-04-12_um_04_54_18_png.webp",
+            "nutzer_name": "Anja T.",
+            "datum": "vor 3 Wochen",
+            "anzahl_der_sterne": 5,
+            "verifizierte_bewertung": true
+          }
+        },
+        "bewertung_zGWBXN": {
+          "type": "bewertung",
+          "settings": {
+            "bewertung_text": "<p>Was soll ich sagen? Ich habe mir den Schuh wegen des wasserfesten Designs bestellt – und er hält wirklich, was er verspricht! Selbst im Regen bleibt alles trocken und sauber. Bin begeistert!</p>",
+            "max_image_height": 200,
+            "image_position": "center",
+            "nutzer_profilbild": "shopify://shop_images/ef189973a6c8ac026f0156350f758fc0-3096718495_jpg.webp",
+            "nutzer_name": "Nina B.",
+            "datum": "vor 4 Wochen",
+            "anzahl_der_sterne": 5,
+            "verifizierte_bewertung": true
+          }
+        }
+      },
+      "block_order": [
+        "bewertung_EV4pUQ",
+        "bewertung_m8R9E3",
+        "bewertung_47YjN4",
+        "bewertung_4mk7Fp",
+        "bewertung_zGWBXN"
+      ],
+      "name": "💫: Testimonials Slider",
+      "settings": {
+        "stil": "google",
+        "gradient_start_color": "#ffffff",
+        "section_backround_color": "#efefef",
+        "slider_autoplay": true,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "box_padding_block": 60,
+        "titel_farbe": "#000000",
+        "subtitel_farbe": "#000000",
+        "box_hintergrund": "#ffffff",
+        "box_text": "#000000",
+        "star_color_header": "#fdd663",
+        "star_color_box": "#1b1b1b",
+        "review_color": "#000000",
+        "header": "Deine Zufriedenheit. Unsere Mission.",
+        "subheader": "Siehe was andere Kunden sagen",
+        "bewertung_text": "Sehr gut 4.7/5",
+        "anzahl_der_bewertungen": 5,
+        "button_text": "bassiert auf 10.000+ Bewertungen",
+        "button_link": "",
+        "verified_text": "Verified Rating",
+        "header_font": "poppins_n7",
+        "subtitle_font": "poppins_n4",
+        "review_font": "poppins_n4",
+        "show_avatars": true
+      }
+    },
+    "faq_XX8Me4": {
+      "type": "faq",
+      "blocks": {
+        "item_fRBrC9": {
+          "type": "item",
+          "settings": {
+            "title": "Warum Viléa und nicht wo anders ?",
+            "content": "<p>🚀<strong>Sicher & zuverlässig</strong>– Wir arbeiten mit geprüften Logistikpartnern<br/>📦<strong>100 % Liefergarantie</strong>– Keine leeren Versprechen, bei uns kommt dein Paket sicher an<br/>👥<strong>Echter Kundenservice</strong>– Nicht nur echter-Shop, sondern auch echte Ansprechpartner<br/>💸<strong>Faire Preise & geprüfte Qualität</strong>– Keine billigen Produkte, sondern tested & approved</p>"
+          }
+        },
+        "item_m6RVbV": {
+          "type": "item",
+          "settings": {
+            "title": "Wie funktioniert eure Rückgabe - und Umtauschpolitik?",
+            "content": "<p>Du hast 30 Tage Zeit, um deine Bestellung zurückzugeben, falls du nicht Zufrieden bist oder die Größe nicht passt. Kontaktiere uns einfach über Email um die Rücksendeadresse zu erhalten. Sobald die Ware bei uns eintrifft, bekommst du entweder 100% des Kaufpreises zurück oder wir schicken dir die gewünschte neue Größe.</p>"
+          }
+        },
+        "item_66YDwD": {
+          "type": "item",
+          "settings": {
+            "title": "Kann ich den Status meiner Bestellung verfolgen?",
+            "content": "<p>Ja, die genauen Lieferdetails erhältst du in deiner Bestätigungs-E-Mail. Jede Bestellung erhält von uns eine eigene Trackingnummer.</p>"
+          }
+        },
+        "item_dhw8AU": {
+          "type": "item",
+          "settings": {
+            "title": "Ich bin gerade etwas knapp bei Kasse. Wie kann ich trotzdem bei euch shoppen",
+            "content": "<p>Bei uns kannst du ganz einfach mit <strong>Klarna Rechnung </strong>zahlen und bekommst die Möglichkeit, dein Paket <strong>in 14 Tagen </strong>zu bezahlen – ohne sofort in die Tasche greifen zu müssen. So kannst du dir ganz entspannt dein Lieblingsprodukt sichern und hast noch ein bisschen Zeit, den Betrag zu begleichen</p>"
+          }
+        },
+        "item_HMpJzk": {
+          "type": "item",
+          "settings": {
+            "title": "Beschreibung",
+            "content": "<p>Unsere hochwertigen Schuhe vereinen maximalen Komfort mit modernem Design. Das weiche Material sorgt für ein ultra-angenehmes Tragegefühl, während der lässige, leicht oversize Schnitt den perfekten Look liefert. Das minimalistische Design mit dezenten Details macht sie zum Must-Have für alle, die Stil und Gemütlichkeit in einem Schuh vereinen möchten.</p><p>Egal, ob du nach dem perfekten Sneaker für den Alltag suchst oder einen eleganten Schuh für besondere Anlässe benötigst – bei uns findest du das perfekte Paar, das sowohl deinen Stil als auch deine Komfortbedürfnisse erfüllt. Hol dir noch heute deinen neuen Lieblingsschuh!</p>"
+          }
+        },
+        "item_BhNnV8": {
+          "type": "item",
+          "settings": {
+            "title": "Versandinfo",
+            "content": "<p>Wir bearbeiten und versenden Ihre Bestellung innerhalb von 1–2 Tagen. Die Lieferung erfolgt in der Regel innerhalb von 4–6 Tagen nach Versand.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_fRBrC9",
+        "item_m6RVbV",
+        "item_66YDwD",
+        "item_dhw8AU",
+        "item_HMpJzk",
+        "item_BhNnV8"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Mit unseren Klamotten wirkst du, als würdest du im Luxus leben - selbst wenn dein Kontostand nicht ganz so überzeugt ist! 100% Geld zurück Garantie.</p><p><em>Bei VILEA steht deine Zufriedenheit an erster Stelle. Wenn du mit deinem Kauf nicht zufrieden bist, senden wir dir sofort einen Ersatz oder erstatten dir den vollen Betrag - ohne Fragen zu stellen.</em></p>",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [
+          "solve-runner-sneaker",
+          "solve-essence-sneaker",
+          "solve-chunky-sneaker",
+          "og-sole-low-top-sneaker",
+          "lv-trainer-sneaker",
+          "solve-virale-lou-sneaker",
+          "vilea-trainer-sneaker",
+          "hank-low-top-sneaker",
+          "flared-peterson-low-top-sneaker"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "DAS KÖNNTE DIR AUCH GEFALLEN:",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "media_with_text_FT4Lxe": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_nn47mX": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Ring_stacking_2_png.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "TAUCHE EIN IN DIE WELT STRAHLENDER ELEGANZ",
+            "content": "<p>Jedes Schmuckstück ist ein Unikat aus hochwertigem Edelstahl, hypoallergen und farbecht – ideal auch für empfindliche Haut. Wir setzen auf höchste Qualität und Präzision, um dir das perfekte Accessoire zu bieten.</p><p>Falls du nicht vollkommen zufrieden bist: Innerhalb von 14 Tagen garantieren wir dir eine unkomplizierte Rückerstattung oder einen Umtausch. Dein Lächeln ist unser Ziel.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_nn47mX"
+      ],
+      "disabled": true,
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "tabs_E8LpUb": {
+      "type": "tabs",
+      "blocks": {
+        "tab_PjWbfj": {
+          "type": "tab",
+          "settings": {
+            "title": "Aus welchen Materialien sind die Schmuckstücke gefertigt?",
+            "content": "<p>Wir verwenden <strong>Premium-Edelstahl</strong>, um Ihre Schönheit zu gewährleisten und jedes Schmuckstück mit höchster Präzision zu perfektionieren.</p>",
+            "page": ""
+          }
+        },
+        "tab_kDQJrr": {
+          "type": "tab",
+          "settings": {
+            "title": "Ist es Wasserbeständig?",
+            "content": "<p>Ja, es ist zu <strong>100 % wasser-, schweiß- und hitzebeständig. </strong>Dadurch kannst du selbst mit empfindlicher Haut deinem Look den perfekten Feinschliff verleihen.</p>",
+            "page": ""
+          }
+        },
+        "tab_F73Mwx": {
+          "type": "tab",
+          "settings": {
+            "title": "Wie pflege ich mein Schmuck?",
+            "content": "<p>Um ihre Schönheit zu bewahren, lagern Sie sie an einem trockenen Ort und reinigen Sie sie vorsichtig mit einem weichen Tuch.</p>",
+            "page": ""
+          }
+        },
+        "tab_mfNtgK": {
+          "type": "tab",
+          "settings": {
+            "title": "Sind die Schmuckstücke universell?",
+            "content": "<p>Ja,<strong>alle unsere Schmuckstücke sind universell einsetzbarund passen zu jedem.</strong>Bei Fragen nutzen Sie bitte unser Kontaktformular.</p>",
+            "page": ""
+          }
+        },
+        "tab_9gCMWH": {
+          "type": "tab",
+          "settings": {
+            "title": "Wie lang dauert der Versand?",
+            "content": "<p>Wir bearbeiten und versenden Ihre Bestellung innerhalb von <strong>1–2 Tagen</strong>. Die Lieferung erfolgt in der Regel innerhalb von<strong> 3–5 Tagen</strong> nach Versand.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_PjWbfj",
+        "tab_kDQJrr",
+        "tab_F73Mwx",
+        "tab_mfNtgK",
+        "tab_9gCMWH"
+      ],
+      "disabled": true,
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "Häufig gestellte Fragen",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "st_shoppable_slider_n3wJXy",
+    "st_testimonials_slider_jdzm8H",
+    "faq_XX8Me4",
+    "related-products",
+    "media_with_text_FT4Lxe",
+    "tabs_E8LpUb"
+  ]
+}
