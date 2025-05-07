@@ -85,8 +85,8 @@
           "settings": {
             "hide_sold_out_variants": false,
             "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
+            "selector_mode": "dropdown",
+            "color_mode": "variant",
             "size_chart_page": ""
           }
         },
@@ -185,7 +185,7 @@
             "delivery_hours": "Stdn.",
             "delivery_minutes": "Min.",
             "animated_line": true,
-            "box_color": "#F5F5F5",
+            "box_color": "#f5f5f5",
             "text_color": "#000000",
             "hours_color": "#006631",
             "icon_size": 30
@@ -210,7 +210,7 @@
             "title_size": 13,
             "subtext_size": 11,
             "box_rounded": 0,
-            "hintergrunds_farbe": "#F6F6F6",
+            "hintergrunds_farbe": "#f6f6f6",
             "text_farbe": "#000000"
           }
         },
