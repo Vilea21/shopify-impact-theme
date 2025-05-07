@@ -484,6 +484,13 @@
             "content": "<p>Ja, die genauen Lieferdetails erhältst du in deiner Bestätigungs-E-Mail. Jede Bestellung erhält von uns eine eigene Trackingnummer.</p>"
           }
         },
+        "item_dhw8AU": {
+          "type": "item",
+          "settings": {
+            "title": "Ich bin gerade etwas knapp bei Kasse. Wie kann ich trotzdem bei euch shoppen",
+            "content": "<p>Bei uns kannst du ganz einfach mit <strong>Klarna Rechnung </strong>zahlen und bekommst die Möglichkeit, dein Paket <strong>in 14 Tagen </strong>zu bezahlen – ohne sofort in die Tasche greifen zu müssen. So kannst du dir ganz entspannt dein Lieblingsprodukt sichern und hast noch ein bisschen Zeit, den Betrag zu begleichen</p>"
+          }
+        },
         "item_HMpJzk": {
           "type": "item",
           "settings": {
@@ -503,6 +510,7 @@
         "item_fRBrC9",
         "item_m6RVbV",
         "item_66YDwD",
+        "item_dhw8AU",
         "item_HMpJzk",
         "item_BhNnV8"
       ],
@@ -649,6 +657,7 @@
         "tab_mfNtgK",
         "tab_9gCMWH"
       ],
+      "disabled": true,
       "name": "Tabs",
       "settings": {
         "full_width": true,
